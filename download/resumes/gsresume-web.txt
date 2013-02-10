@@ -1,0 +1,102 @@
+Greg A. Smith
+
+[work]
+College of Optical Sciences
+University of Arizona
+Tucson, AZ 85721
+(520) 626 - 3304
+
+[email]
+gasmith@u.arizona.edu
+[website]
+http://career.gravitysmith.com/
+
+O BJECTIVE: Utilize my practical knowledge of precision polarization measurements in a
+hands-on, research-oriented setting.
+
+E DUCATION:
+College of Optical Sciences, University of Arizona, Tucson, AZ
+Ph.D. - Dissertation advisor - Dr. Poul S. Jessen
+Dissertation topic = "Continuous Measurement of a Cold Atomic Ensemble"
+expected completion: May 2006
+M.S. -
+
+Optical Sciences Center, University of Arizona, Tucson, AZ
+Optical Sciences degree
+December 2002
+
+Rochester Institute of Technology, Rochester, NY
+B.S. - Graduated with Honors in Physics (with Optics concentration)
+March 1997
+
+H ONORS:
+Rolyn Optics Outstanding Teaching Assistant Award - 2001 & 1999
+Navy Unit Commendation Award (Naval Research Lab.) - 1996
+Presidential Scholarship (R.I.T.) - 1992
+
+P ROFESSIONAL A CTIVITIES:
+Member of the Optical Society of America (since 1999)
+Sigma Pi Sigma National Honor Society member (since 1996)
+
+W ORK E XPERIENCE:
+Research Associate
+College of Optical Sciences
+University of Arizona
+9/97 - present
+
+Work in group setting to design, implement, and analyze
+results for experiments involving optical physics within an
+ultra-cold atomic vapor. Primary responsibility for
+experiment in one lab room within our group.
+
+Greg A. Smith (p.2 of 2)
+
+Graduate Teaching Assistant
+Optical Sciences Center (UA)
+Spring semester, 2001
+
+Grading for undergraduate class titled: "Optical Systems
+Analysis", setting up class web page, answering questions
+during office hours as well as occasional lecturing. Received
+Rolyn Optics Outstanding Teaching Assistant Award.
+
+Graduate Teaching Assistant
+Optical Sciences Center (UA)
+Spring Semester, 1999
+
+Set up experiments and guided graduate students for a "Laser
+and Solid State Device" lab class. Topics included modelocking, second-harmonic generation, laser cooling, and use
+of many kinds of lasers. Received Rolyn Optics Outstanding
+Teaching Assistant award.
+
+Physical Science Aide
+Naval Research Labs
+6/96 - 9/96, 12/96 - 3/97
+
+Built apparatus to recoat stripped sections of fiber optics with
+a polyimide material. Assisted in modification of excimer
+laser to be used in creation of fiber Bragg sensors. Received
+Navy Unit Commendation Award.
+
+S ELECTED P UBLICATIONS:
+“Continuous Nondemolition Measurement of the Cs Clock Transition Pseudospin”,
+Souma Chaudhury, Greg A. Smith, Kevin Schulz, and Poul S. Jessen Physical Review
+Letters 96, (2006) pp.043001.
+"Continuous Weak Measurement and Nonlinear Dynamics in a Cold Spin Ensemble",
+Greg A. Smith, Souma Chaudhury, Andrew Silberfarb Ivan H. Deutsch, and Poul S.
+Jessen Physical Review Letters 93, (2004) pp.163602.
+"Faraday Spectroscopy in an Optical Lattice: a continuous probe of atom dynamics",
+Greg A. Smith, Souma Chaudhury, and Poul S. Jessen, Journal of Optics B: Quantum
+and Semiclassical Optics 5, (2003) pp.323-329.
+Personal web page http://www.u.arizona.edu/~gasmith/knots/knots.html - cited in “What
+is the Best Way to Lace Your Shoes?” Nature 420, (December 5, 2002) p.476.
+"Reconstructing Large Angular Momenta", G. Klose, G. Smith, and P. Jessen, Physical
+Review Letters 86, (2001) pp.4721-4725.
+"Method for recoating optical fibres with polyimide", E.J. Friebele, M.A. Putnam, C.G.
+Askins, Z.J. Homrighaus, W.D. Mack, and G.A. Smith, Electronics Letters 34, (1998)
+pp.1249-1250.
+
+C OMPUTER E XPERIENCE:
+LabView, MathCad, Mathematica, MatLab, LaTeX, Windows, Macintosh, HTML
+
+

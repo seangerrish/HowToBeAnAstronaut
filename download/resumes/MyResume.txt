@@ -1,0 +1,105 @@
+John D. Wilson
+1411 Lipan Street
+Denver, CO 80204
+720-771-8854
+jwilson@fishsaucesoup.com
+
+OBJECTIVE AND SKILLS
+My main objective is to work with C/C++/C#.NET/ASP.NET or PHP. I am very skilled in implementing the
+data layer and business layer model. I am also capable in working with the presentation layer. My SQL skills
+and web skills are very strong including HTML, CSS, and Javascript.
+EXPERIENCE
+Strategik Solutions ASP.Net, PHP
+Denver, CO
+04/15/2008 – Present
+I work on ASP.Net C# and PHP websites. The ASP.Net projects included a realty tour site for realtors selling a
+property. The client had an ASP.Net site that showcased a property utilizing expert photography and flash
+virtual tours. The client wanted many more sites to showcase other properties. My job at Strategik Solutions
+was to build a tool for generating the sites. The project was very successful. PHP projects included developing
+CRUD user interfaces working with MySql tables. To facilitate this development, I implemented a
+DataGridView class. This allowed me to quickly implement CRUD user interfaces with such features as
+pagination, sorting, editing, and deleting.
+SysTest Labs
+Denver, CO
+10/22/2009 – 11/9/2009
+I worked as a source code review (SCR) specialist. SysTest relies on contract employees to facilitate their
+electronic voting software certification process for various clients. Last year (06/19/2008-07/25/2008) I was
+part of the team that worked on electronic voting certification for New York. In 2009, I was called to work on
+electronic voting certification for the Philippines May 2010 elections. SysTest Labs considers my work to be
+excellent and I always get positive reviews.
+Casino Software Solutions (CSS)
+Denver, CO
+08/12/2008 – 05/01/2009
+I developed C# programs for Casino Software Solutions. This was a very challenging, extreme agile, software
+development position. The primary LOB at CSS is player management for casinos. The casinos have a patron
+database, primarily Aristocrat, and CSS software is a third party application that interfaces with this patron
+database. As lead developer, I was responsible for developing, accurate and secure, high transaction data layers
+and refactoring the business layers to be object oriented. I was also responsible for enhancing many of the
+features of the presentation layers. I was continuously given challenging projects such as a TCP interface for a
+POS application.
+U.S. Geological Survey
+Denver CO
+08/2001 – Present
+I research numerical methods for solving ground-water modeling problems. I am expert at C programming and
+have experience interfacing FORTRAN code with C code. Parallel programming skills are also important in
+my research. My work is performed on Linux operating system with subversion revision-control software. I
+write research papers and documentation. I continue to work on a volunteer basis so that I can continue my
+research which I find interesting.
+
+Silversmart Jewelry
+Denver, CO
+04/01/2004 - Present
+I am the Silversmart Jewelry web site developer. I implemented a shopping cart application based on the Plain
+Cart public domain shopping cart solution. I also, occasionally, work as a sales associate. As a sales associate,
+I happily work with a diverse group of customers providing professional and courteous service.
+Freelance Web Developer
+Denver, CO
+04/02/2004 – Present
+in addition to SilversmartJewelry.com , currently manage two other websites. One site is for a bar-prep
+instructor and the other site is for an artist and photographer. Links to the sites I work on are available at
+http://fishsaucesoup.com.
+eCollege
+Denver, CO
+01/2007 – 04/2007
+I was contracted by eCollege through Aquent Staffing Services to convert online courses from the client’s
+platform to eCollege’s content managed platform. This job required great attention to detail and extensive use
+of HTML.
+Red Rocks Community College
+Lakewood, CO
+01/2004 – 09/2006
+I was responsible for teaching mathematics. I taught college algebra, calculus, and statistics in addition to
+basic math concepts. I was responsible for the course content and the evaluation of student performance. I also
+worked in the Learning Resource Center as a tutor.
+Community College of Denver
+Denver CO
+08/1997 – 08/2001
+I taught beginning and advance courses in C++ programming. I also taught introductory computer classes
+including Microsoft Office and HTML/Javascript.
+EDUCATION
+Ph. D. Applied Mathematics
+M.S. Applied Mathematics
+B.S. Applied Mathematics
+Microsoft SQL Server 2000 Certificate
+Microsoft Web based Applications with Visual C# .NET
+
+University of Colorado at Denver
+University of Colorado at Denver
+University of Colorado at Denver
+Exam 072-229
+Exam 072-315
+
+2001
+1994
+1991
+2005
+2005
+
+PUBLICATIONS
+MODFLOW-2000, The U.S. Geological Survey Modular Ground-Water Model -- GMG Linear Equation
+Solver Package Documentation, USGS Open-File Report, 2004-1261,2004,
+http://pubs.usgs.gov/of/2004/1261/pdf/ofr20041261.pdf
+
+Multigrid preconditioned conjugate-gradient solver for mixed finite-element method, Computational
+Geosciences,2009, http://dx.doi.org/10.1007/s10596-009-9152-z
+
+

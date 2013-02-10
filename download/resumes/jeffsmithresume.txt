@@ -1,0 +1,318 @@
+Jeff Smith's Resume
+Jeffrey W. Smith
+619-261-4824
+jsmith@softwarejuice.com
+www.softwarejuice.com
+
+Revision Date: 8/5/2007 12:29 PM
+
+Overview
+•
+
+Developer, Instructor, Speaker, Mentor
+
+•
+
+Microsoft Certified Solution Developer
+
+•
+
+Unix Distributed Development, Supercomputing, Massively Parallel
+Development
+
+•
+
+Expert Development Experience in .NET, C#, C++, C, Java
+
+•
+
+Instructor and Content Developer for .NET, C#, C++ Training from
+Beginner to Advanced
+
+•
+
+Application Design, Implementation, Debugging, Testing, Optimization
+and Profiling specialty
+
+•
+
+N-tier Web Services and Web Applications, Scientific Computing, Visual
+Simulation, TCP\IP Communications, Desktop UI and Browser
+Applications, Tool Development
+
+•
+
+22 years of Development Experience, 12 years Instructing, 10 years
+Consulting
+
+Employment History
+UCSD Extension
+Location: San Diego, CA
+From: 2002 To: On-going
+
+Position: Instructor and Content Developer
+Accomplishment(s): Teach and develop course content for C# .NET inclass and on-line courses.
+Project(s): C# and WCF Programming. Beginning, Intermediate and
+Advanced Courses.
+Technologies:
+Tools:
+LPL Financial
+Location: San Diego, CA
+From: April, 2007 To: August, 2007
+Position: Consultant, Software Developer
+Accomplishment(s): Designed and developed new AJAX enabled Web
+applications for LPL's BranchNET Internet and Intranet software
+products. Specifically designed and developed the applications,
+ClientiDOC and PlannerManagement. Modified and updated
+ClientServices and ClientPortal BranchNET Web services and .NET
+remoting services. The applications were successfully deploy August
+2007. Documented the process for fixing defects in BranchNET
+applications.
+Project(s): BranchNET team
+Technologies: ASP.NET 2.0, AJAX toolkit, Web Services, .NET 2.0
+Remoting, C#, SQL Server 2005 stored procedures, SQL, HTML,
+Javascript and CSS
+Tools: Visual Studio.NET 2005 Team Studio, Test Director, Star Team
+Intuit
+Location: San Diego, CA
+From: 2005 To: 2007
+Position: Consultant, Software Developer
+Accomplishment(s): Designed and developed multiple components for
+Intuit's translatable software products architecture initiative.
+Specifically designed and developed a custom translatable XML binding
+serializer, threading component, generic collections, testable API
+conformance for native serialization, and many other components.
+Delivered software is used by all Intuits products including desktop
+applications and application servers. Software written in C# (.NET 2.0
+and 3.0) and Java 1.5.
+Project(s): SPCF Foundations team
+Technologies: .NET 2.0, .NET 3.0, C#, Java, XML
+
+Tools: Visual Studio.NET 2005 Team Studio, Test Driven.NET, NUnit,
+Eclipse, JUnit, maven, Clover.
+Cardinal Health
+Location: San Diego, CA
+From: 2004 To: 2005
+Position: Consultant, Software Developer and Mentor
+Accomplishment(s): Delivered Guardrails version 8.1. C# desktop
+Winforms application used to configure medical infusion pumps.
+Project(s): Guardrails 8.1
+Technologies: .NET, C#, XML, C++, NUnit, NMock
+Tools: Visual Studio.NET 2003, P4 Source Control
+Intuit
+Location: San Diego, CA
+From: 1998 To: 2004
+Position: Consultant, Software Developer, Instructor, Trainer and
+Mentor
+Accomplishment(s): Delivered and deployed numerous web services
+and applications used in and by Intuit's web sites and desktop
+applications including Turbo Tax, Quicken and Quickbooks. On-site
+development training in OOP and C#. Off-site training in .NET Profiling
+at Intuit's Technical Forum.
+Project(s): CRIS/CRMSI, Authentication, Privacy, Registration,
+OFXBranding, Internet Client
+Technologies: Tibco Rendezvous, Siebel Enterprise, .NET, C#, Java,
+JNI, ASP.NET, SOAP, HTTP, XML, ATL, IIS, ISAPI, Classic ASP, COM,
+DCOM, Sockets
+Tools: Visual Studio.NET, ADPlus, Windbg, SOS, Visual Studio 5 and 6,
+Java SDK Compiler, SUN and GNU C++ Compilers, Visio
+Akonix
+Location: San Diego, CA
+From: 2001 To: 2001
+Position: Consultant, C++ COM Tool Developer
+Accomplishment(s): Delivered a COM test tool capable of testing all
+their products COM components both dispatchable and custom
+interfaces. Provided scriptable initialization and data driven using SQL
+Server.
+
+Project(s): Web Application Product
+Technologies: C++, COM, ATL, XML, ADO, SQL Server
+Tools: Visual Studio
+Gateway Computers
+Location: San Diego, CA
+From: 2000 To: 2001
+Position: Consultant, Web Application Developer, Optimizer and
+Debugger
+Accomplishment(s): Contributed to debugging, stablizing and
+optimizing Gateway's Country store Web Store application.
+Project(s): One and Done - Shopping Cart Web Application
+Technologies: C++, COM, MTS, ATL, XML, Classic ASP, Performance
+Monitor and Counters
+Tools: Visual Studio, IIS
+Alaris
+Location: San Diego, CA
+From: 1999 To: 2001
+Position: Consultant, Desktop Simulation Application Development
+Accomplishment(s): Delivered a simulator test tool capable of testing
+Alaris firmware functionality used in medical device products.
+Project(s): Orion Simulator
+Technologies: C++, COM, ATL, WTL, Borland C++
+Tools: Visual Studio, Borland C++ Compiler
+Mallinckrodt
+Location: Carlsbad, CA
+From: 1999 To: 2000
+Position: Consultant, COM Application Developer
+Accomplishment(s): Delivered the first version of the Clinivision Win32
+MFC/COM desktop application. The application was used for monitoring
+daily activites and providing statistics.
+Project(s): Clinivision
+Technologies: C++ COM/OLE, ATL, MFC
+Tools: Visual Studio
+Wheb Systems
+
+Location: San Diego, CA
+From: 1998 To: 1998
+Position: Consultant, COM Application Developer
+Accomplishment(s): Delivered first prototype used for new architecture
+of forms image processing using COM/ATL browser-based application.
+Project(s): Captiva
+Technologies: C++ ATL COM, COM IE Controls, HTML, VBA
+Tools: Visual Studio
+DAZI Systems - Solar Turbines
+Location: San Diego, CA
+From: 1997 To: 1998
+Position: Consultant, COM Application Developer
+Accomplishment(s): Delivered and worked on initial effort to create a
+new version turbine monitoring Win32 MFC/COM desktop application.
+Project(s): Data Acquision Turbine Monitoring Application
+Technologies: OPC, C++ COM ATL, MFC
+Tools: Visual Studio
+Doctor Design
+Location: San Diego, CA
+From: 1997 To: 1997
+Position: Consultant, COM Application Developer
+Accomplishment(s): Built and integrated a persist heap used for a
+desktop advertising application capable using web push technologies.
+Project(s): Browser-Based, Desktop Advertising Application
+Development
+Technologies: C++ COM ATL, Win32
+Tools: Visual Studio
+Vibro-Acoustic Sciences
+Location: San Diego, CA
+From: 1996 To: 1997
+Position: Consultant, Application Developer
+Accomplishment(s): Delivered first version of their acoustic modeling
+application ported from MAC O/S to portable graphics for Win32.
+Project(s): Desktop Visual Simulation Application Development
+Technologies: C++ Win32
+Tools: Visual Studio
+
+Uniden SRC - Stellcom Technologies
+Location: San Diego, CA
+From: 1996 To: 1996
+Position: Consultant, Test Application Developer
+Accomplishment(s): Delivered a Win32 MFC test tool used to assist
+debugging firmware used in telecommunications.
+Project(s): Desktop UI Application Communication Debug Tool
+Development
+Technologies: C++, Win32, Serial Communication, MS Access
+Database
+Tools: Visual Studio
+Cloud 9 Productions
+Location: San Diego, CA
+From: 1995 To: 1996
+Position: Principal Software Engineer
+Accomplishment(s): Created OO framework used for PC gaming
+running under Win95 using DirectX. Initially used for "Escaped from
+LA" prototype.
+Project(s): PC Gaming, Visual Simulation, Escape from LA Prototype
+Technologies: C++, STL, DirectX, Win32, Winsock
+Tools: Visual Studio 4.1, 3D Studio's MAX
+GreyStone Technology
+Location: San Diego, CA
+From: 1993 To: 1995
+Position: Senior Software Engineer
+Accomplishment(s): Created the Greystone Foundation Classes used
+for 3D simulation include game development.
+Project(s): Various Visual Simulation Applications
+Technologies: Unix, C++, STL, SGI Performer, TCP/IP Sockets, 3D
+Motion Tracking
+Tools: SGI's Unix Ultrix, GNU and SGI C++ Compilers, dbx
+Structured Technologies
+Location: San Diego, CA
+From: 1993 To: 1993
+Position: Senior Software Engineer
+
+Accomplishment(s): Developed a OO C++ communication library
+capable of distributing and transport objects.
+Project(s): Distributed Signal Processing Applications
+Technologies: SUNOS, HP Unix, KSR Parallel Processor, TCP/IP Sockets
+Tools: Various Unix C++ Compilers, GNU, Rational ROSE, LUCID,
+XShell
+Mountain Network Solutions
+Location: San Diego, CA
+From: 1992 To: 1992
+Position: Senior Software Engineer
+Accomplishment(s): Delivered sub-systems and classes used to build
+network backup software.
+Project(s): Network Backup Software Application
+Technologies: C++, Netware 3.0 + 4.0
+Tools: Borland C++, Zortech C++
+McDonnell Douglas Technologies
+Location: San Diego, CA
+From: 1989 To: 1992
+Position: Software Engineer
+Accomplishment(s): Responsible for create scientific modeling software
+used to distribute and parallelize existing and new scientific
+applications.
+Project(s): Distributed Command and Control Simulation Applications,
+Code Parallelization
+Technologies: Unix C++, Sun Spark, SGI IRIS, DECStation 3100,
+Cogent Parallel Processors
+Tools: GNU C++, Various Unix C++,X-Windows MOTIF, C, Fortran, GL,
+PHIGS, GKS
+McDonnell Douglas Technologies, Alcoa Defense Systems
+Location: San Diego, CA
+From: 1986 To: 1989
+Position: QA Analyst Database Programmer
+Accomplishment(s): Delivered 2-tier network database application
+used for tracking and monitoring QA requirements.
+Project(s): QA Process Database Applications
+Technologies: HP1000, C and Progress 4GL.DBMS for LAN
+
+Tools: Fortran, C and Progress 4GL Compilers
+Coopervision Diagnostic Imaging
+Location: San Diego, CA
+From: 1983 To: 1986
+Position: QA Supervisor
+Accomplishment(s): Supervised a small team inspecting opthalmic
+equipment. Wrote database applications used to track and report
+production defects.
+Project(s): Building and Testing Diagnostic Opthalmic Equipment
+Technologies: DBase/Foxbase Database Programming
+Tools: DBase
+Honeywell Electro Optics
+Location: Lexington, MA
+From: 1980 To: 1983
+Position: Engineering Aide
+Accomplishment(s): Engineering aide responsible for diagnosing
+typical build issues for their IR detectors.
+Project(s): Building MerCadTel IR Detectors
+Technologies:
+Tools:
+
+Speaking Engagements
+Topic: .NET Threading Tips
+Group: San Diego .NET Rock and Roll Code Camp
+Date: June 2006
+Topic: Profiling .NET Applications
+Group: Intuit's Off-Site Technical Forum
+Date: Fall 2004
+Topic: Profiling .NET Applications
+Group: San Diego .NET Developers Group
+Date: November 2003
+
+Education
+College: California State University at San MarcosDate: 1985Degree:
+
+Continuing
+High School: Stoneham High School, MassachusettsDate: 1973Graduated:
+Diploma
+Certification: Microsoft Certified Solution DeveloperDate: 1997
+
+Security
+Active: Inactive
+Clearance: SecretDate: 1993-1995
+Clearance: SecretDate: 1989-1993
+
+

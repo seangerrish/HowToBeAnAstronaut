@@ -1,0 +1,939 @@
+radiologic technologist,105;
+radiologic technician,105;
+# textile, apparel, and furnishings occupation,233;
+medical scientist,008;scientist,medical
+waste treatment plant operator,229;waste,plant,sewage
+,137
+logging worker,351;
+logger,351;
+veterinary technologist,183;
+veterinary technician,183;
+librarian,068;
+welder,226;
+solderer,226;
+brazer,226;
+drywall installer,205;
+ceiling tile installer,205;
+taper,205;
+plasterer,205;
+stucco mason,205;
+podiatrist,075;
+epidemiologist,310;
+hotel desk clerk,132;
+motel desk clerk,132;
+resort desk clerk,132;
+desk clerk,132;
+hotel clerk,132;
+motel clerk,132;
+resort clerk,132;
+travel agent,124;
+athlete,251;
+coach,251,
+umpire,251,
+athletic trainer,294;
+personal trainer,294;
+sheet metal worker,214;
+public relations specialist,086;
+pr specialist,086;
+commercial designer,290;
+industrial designer,290;
+commercial design,290;
+industrial design,290;
+occupational therapist assistant,166;
+occupational therapist aide,166;
+interviewer,340;
+author,320;
+writer,320;
+editor,320;
+camera repairer,354;
+photographic equipment repairer,354;
+occupational therapist,078;
+fishing vessel operator,177;
+fishing boat operator,177;
+fisher,177;
+floral designer,292;
+florist,292;
+vocational teacher,358;
+,334
+teaching assistant,153;assistant,teacher,teaching
+teacher assistant,153;
+teacher's assistant,153;
+# securities, commodities, and financial services sales agent,122;
+financial services sales agent,122;
+commodities agent,122;
+securities agent,122;
+child care worker,170;
+day care,170;
+fire fighter,158;
+firefighter,158;
+computer support specialist,306;
+it specialist,306;
+it technician,306;
+audiologist,085;
+licensed practical nurse (or licensed vocational nurse),102;
+licensed practical and licensed vocational nurse,102;
+nurse,102;
+licensed vocational nurse,102;
+lpn,102;
+licensed practical nurse,102;
+counselor,067;
+jewelers and precious stone and metal worker,222;
+metal worker,222;
+metalworker,222;
+precious stone worker,222;
+jeweler,222;
+construction manager,005;
+dental hygienist,097;
+interpreters and translator,175;
+translator,175;
+interpreter,175;
+actuarial specialist,041;
+actuarial analyst,041;
+actuary,041;
+# police, fire, and ambulance dispatcher,343;
+police dispatcher,343;
+fire dispatcher,343;
+ambulance dispatcher,343;
+dispatcher,343;
+emt dispatcher,343;
+market and survey researcher,013;
+survey researcher,013;
+market researcher,013;
+model,337;fashion,design,runway
+construction laborer,248;site,construction,work
+construction worker,248;
+,035
+psychologist,056;patient,session
+court reporter,152;
+court journalist,152;
+gaming cage worker,338;
+demonstrators and product promoter,336;
+demonstrator,336;
+product promoter,336;
+product demonstrator,336;
+electrical and electronics installers and repairer,184;
+electronics specialist,184;
+electrical repairer,184;
+electrician,184;
+,036
+semiconductor processor,257;
+semiconductor technician,257;
+chiropractor,071;
+# human resources, training, and labor relations managers and specialist,021;
+computer software engineers and computer programmers ,110;
+line installers and repairer,195;
+line repairer,195;
+line installer,195;
+,033
+#tax examiners, collectors, and revenue agent,260;
+tax collector,260;
+tax examiner,260;
+pest control worker,254;
+pest control,254;
+landscape architect,039;
+animal care and service worker,168;
+animal care,168;
+dentist,072;
+food and beverage server (or related worker),162;
+food and beverage serving and related worker,162;
+waiter,162;
+waitress,162;
+server,162;
+,307
+grounds maintenance worker,172;
+maintenance worker,172;
+maintenance work,172;
+maintenance,172;
+lawn care,172;
+gardener,172;
+printing machine operator,231;
+printing machine operator,231;
+self-enrichment education teacher,064;
+self-enrichment teacher,064;
+,270
+social worker,060;
+# plumbers, pipelayers, pipefitters, and steamfitter,211;
+steamfitter,211;
+pipefitter,211;
+pipelayer,211;
+plumber,211;
+food service manager,024;
+# weighers, measurers, checkers, and samplers, recordkeeping,284;
+recreation worker,058;
+electronic home entertainment equipment installers and repairer,187;
+equipment installer,187;
+equipment repairer,187;
+engineer,027;
+# chefs, head cooks, and food preparation and serving supervisor,330;
+# inspectors, testers, sorters, samplers, and weigher,220;
+weigher,220;
+sampler,220;
+sorter,220;
+testers,220;
+inspector,220;
+recreational therapist,082;
+retail salesperson,121;
+police officer / detective,160;police,officer,detective,public,safety
+police officer,160;
+police,160;
+detective,160;
+graphic designer,090;
+freelance graphic designer,090;
+agricultural inspector,347;
+computer operator,128;
+secretary / administrative assistant,151;
+secretaries or administrative assistant,151;
+administrative assistant,151;
+administrative assistance,151;
+secretary,151;
+brokerage clerk,145;
+occupational health and safety technician,017;
+,028
+,235
+insurance underwriter,026;
+underwriter,026;
+small engine mechanic,198;
+photographer,264;
+private detectives and investigator,157;
+private detectives,157;
+private investigator,157;
+cost estimator,006;
+#advertising, marketing, promotions, public relations, and sales manager,020;
+#graders and sorters, agricultural product,348;
+product grader,348;
+agricultural grader,348;
+product sorter,348;
+# preschool, except special education teacher,317;
+preschool teacher,317;
+library technicians and library assistant,316;
+desktop publisher,276;
+communications equipment operator,154;
+equipment operator,154;
+,239
+agricultural and food scientist,046;
+food scientist,046;
+nutritionist,046;
+dietician,046;
+agricultural scientist,046;
+postal service mail carrier,345;
+counter and rental clerk,117;
+rental clerk,117;
+counter clerk,117;
+computer network, systems, or database administrator,042;
+sql server,042;
+server administrator,042;
+application servers,042;
+application server,042;
+nuclear medicine technologist,104;
+administrative services manager,002;
+administrative manager,002;
+library technicians and library assistant,113;
+property, real estate, and community association manager,022;
+community association manager,022;
+real estate manager,022;
+property manager,022;
+tool and die maker,225;
+die maker,225;
+tool maker,225;
+die,225;
+surveyors, cartographers, photogrammetrists, and surveying and mapping technician,040;
+mapping technician,040;
+surveying technician,040;
+photogrammetrist,040;
+cartographer,040;
+surveyor,040;
+dental assistant,163;
+dental hygienist,163;
+pharmacy technicians and aide,252;
+urban and regional planner,057;
+regional planner,057;
+urban planner,057;
+cement masons, concrete finishers, segmental pavers, and terrazzo worker,204;
+segmental paver,204;
+concrete finishers,204;
+cement mason,204;
+terrazzo,204;
+truck drivers and driver/sales worker,246;
+driver sales,246;
+truck driver,246;
+computer software engineer / programmer,303;
+computer software engineers (or computer programmer),303;
+adult literacy and remedial education teacher,289;
+adult literacy teacher,289;
+remedial education teacher,289;
+surgical technologist,106;
+surgical technician,106;
+gaming services occupation,275;
+loan interviewers and clerk,341;
+,236
+sales engineer,123;
+water transportation occupation,247;
+water transportation,247;
+aquaduct,247;
+home health aides and personal and home care aide,326;
+pharmacist,079;
+roofer,212;
+social and human service assistant,059;
+human services assistant,059;
+computer control programmers and operator,286;
+computer control operator,286;
+computer operator,286;
+computer control programmer,286;
+massage therapist,295;
+masseuse,295;
+# bookkeeping, accounting, and auditing clerk,144;
+science technician,115;
+research assistant,115;
+student scientist,115;
+technician,115;
+cashier,116;
+insulation worker,208;
+insulation,208;
+social scientists, other,054;
+social scientist,054;
+physicists and astronomer,052;
+astronomer,052;
+physicist,052;
+forest and conservation worker,350;
+forest and conservation worker,350;
+computer network, systems, and database administrator,305;
+order clerk,148;
+medical transcriptionist,271;
+#barbers, cosmetologists, and other personal appearance worker,169;
+lawyer,053;
+food processing occupation,219;
+financial manager,010;
+credit authorizers, checkers, and clerk,129;
+credit clerk,129;
+credit checker,129;
+credit authorizer,129;
+glazier,207;
+correctional officer,156;corrections,officer
+#archivists, curators, and museum technician,065;
+museum technician,065;
+curator,065;
+archivist,065;
+gaming cage worker,278;
+medical equipment repairer,199;
+#kindergarten, elementary, middle, and secondary teacher,318;
+secondary teacher,318;
+teacher,318;
+instructor,318;
+middle school teacher,318;
+elementary school teacher,318;
+kindergarten teacher,318;
+eligibility interviewers, government program,339;
+eligibility interviewer,339;
+#production, planning, and expediting clerk,283;
+expediting clerk,283;
+planning clerk,283;
+production clerk,283;
+opticians, dispensing,098;
+optician,098;
+construction and building inspector,004;
+building inspector,004;
+construction inspector,004;
+makeup artists, theatrical and performance,333;
+makeup artist,333;
+home health aides and personal and home care aide,173;
+home care aide,173;
+personal aide,173;
+health aide,173;
+chefs, head cooks, and food preparation and serving supervisor,161;
+serving supervisor,161;
+food service managerd,161;
+food preparation supervisor,161;
+head cook,161;
+chef,161;
+probation officers and correctional treatment specialist,265;
+correctional treatment specialist,265;
+probation officer,265;
+cargo and freight agent,281;
+freight agent,281;
+cargo agent,281;
+geoscientists and hydrologist,050;
+fire fighter,329;
+fireman,329;
+fire man,329;
+firefighter,329;
+,062
+,034
+,308
+stock clerks and order filler,139;
+order filler,139;
+stock clerk,139;
+carpet, floor, and tile installers and finisher,203;
+computer software engineers and computer programmers ,267;
+programmer,267;
+software engineer,267;
+software developer,267;
+health educators ,063;
+health educator,063;
+sales representatives, wholesale and manufacturing,119;
+sales representative,119;
+diagnostic medical sonographer,273;
+flight attendant,171;
+accountants and auditor,001;
+auditor,001;
+accountant,001;
+paralegals and legal assistant,114;
+legal assistant,114;
+paralegal,114;
+,196
+financial analyst,301;
+,030
+painters and paperhanger,209;
+paperhanger,209;
+painter,209;
+computer systems analyst,287;
+computer analyst,287;
+postal service mail carrier,141;
+mail carrier,141;
+power plant operators, distributors, and dispatcher,227;
+power plant dispatcher,227;
+power plant distributor,227;
+power plant operator,227;
+photographic process workers and processing machine operator,241;
+processing machine operator,241;
+photographic process operator,241;
+insurance sales agent,118;
+insurance agent,118;
+cardiovascular technologists and technician,100;
+cardiovascular technician,100;
+cardiovascular technologist,100;
+carpenter,202;
+,218
+drafter,111;
+heavy vehicle and mobile equipment service technicians and mechanic,197;
+industrial mechanic,197;
+truck mechanic,197;
+cashier,335;
+personal financial advisor,302;
+financial advisor,302;
+assemblers and fabricator,217;
+assembly line,217;
+fabricator,217;
+assembler,217;
+clinical laboratory technologists and technician,096;
+clinical laboratory technician,096;
+clinical laboratory technologist,096;
+laboratory technician,096;
+laboratory technologist,096;
+lab technician,096;
+lab technologist,096;
+medical assistant,164;
+medical intern,164;
+veterinarian,076;
+file clerk,146;
+,266
+computer network, systems, and database administrator,268;
+computer network administrator,268;
+systems administrator,268;
+database administrator,286;
+database programmer,286;
+it specialist,268;
+fire inspectors and investigator,328;
+fire investigator,328;
+fire inspector,328;
+operations research analyst,044;
+operations research,044;
+or analyst,044;
+operations analyst,044;
+technical writer,319;
+computer scientist,304;
+watch repairer,357;
+watch repair,357;
+couriers and messenger,136;
+messenger,136;
+courier,136;
+medical and health services manager,014;
+health services manager,014;
+medical services manager,014;
+management analyst,019;
+library technicians and library assistant,147;
+library assistant,147;
+library technician,147;
+receptionist/information clerk,134;
+receptionists and information clerk,134;
+information clerk,134;
+receptionist,134;
+sociologists and political scientist,314;
+political scientist,314;
+sociologist,314;
+stationary engineers and boiler operator,228;
+boiler operator,228;
+stationary engineer,228;
+painting and coating workers, except construction and maintenance,240;
+painter,240;
+loan officer,018;
+,263
+pharmacy technicians and aide,274;
+pharmacy aide,274;
+pharmacy technician,274;
+funeral director,011;
+,234
+environmental scientists and specialist,311;
+environmental scientist,311;
+environmental specialist,311;
+,213
+#farmers, ranchers, and agricultural manager,176;
+agricultural manager,176;
+rancher,176;
+farmer,176;
+conservation scientist,048;
+forester,048;
+conservationist,048;
+#human resources assistants, except payroll and timekeeping,150;
+hr assistant,150;
+human resources assistant,150;
+boilermaker,221;
+,261
+#barbers, cosmetologists, and other personal appearance worker,332;
+manicurist,332;
+pedicurist,332;
+barber,332;
+cosmetologist,332;
+payroll and timekeeping clerk,149;
+timekeeping clerk,149;
+payroll clerk,149;
+#drywall and ceiling tile installers, tapers, plasterers, and stucco mason,210;
+physical therapist,080;
+,131
+office clerk,130;
+pharmacy technicians and aide,325;
+pharmacy aide,325;
+pharmacy technician,325;
+special education teacher,070;
+special education instructor,070;
+#teacher, special education,070;
+office and administrative support worker supervisors and manager,127;
+administrative support supervisor,127;
+administrative support manager,127;
+office manager,127;
+office supervisor,127;
+,262
+#actors, producers, and director,093;
+actor,093;
+producer,093;
+director,093,0;
+structural and reinforcing iron and metal workers,215;
+structural and reinforcing iron and metal workers,215;
+structural metalworker,215;
+structural metal worker,215;
+dancers and choreographer,094;
+choreographer,094;
+dancer,094;
+,031
+postsecondary teacher,066;
+instructor,066;
+meeting and convention planner,298;
+# aircraft and avionics equipment mechanics and service technician,179;
+aircraft mechanic,179;
+aircraft technician,179;
+# medical, dental, and ophthalmic laboratory technician,238;
+medical scientist,309;
+# claims adjusters, appraisers, examiners, and investigator,125;
+claims adjuster,125;
+appraiser,125;
+claims examiner,125;
+claims investigator,125;
+# computer, automated teller, and office machine repairer,186;
+computer repair,186;
+office machine repair,186;
+atm repair,186;
+forest/conservation worker,178;
+ranger,178;
+conservation,178;
+# shipping, receiving, and traffic clerk,140;
+shipping clerk,140;
+receiving clerk,140;
+traffic clerk,140;
+# industrial machinery mechanics and millwright,190;
+economist,055;
+# judges, magistrates, and other judicial worker,272;
+judge,272;
+magistrate,272;
+judicial,272;
+# computer and information systems manager,258;
+it manager,258;
+tech manager,258;
+information systems manager,258;
+optometrist,073;
+,032
+geoscientists and hydrologist,312;
+appraisers and assessors of real estate,300;
+real estate assessor,300;
+real estate appraiser,300;
+engineering technician,112;
+construction equipment operator,255;
+building cleaning worker,174;
+architect (except landscape or naval),038;
+architects, except landscape and naval,038;
+architect,038;
+mathematician,043;
+industrial production manager,016;
+production manager,016;
+metal and plastic machine setters, operators, and tenders,224;
+metal and plastic machine setters, operators, and tenders,224;
+metal setter,224;
+metal machine setter,224;
+plastic setter,224;
+plastic machine setter,224;
+machine tender,224;
+machine setter,224;
+machine operator,224;
+financial analyst,259;
+analyst,259;
+quant,259;
+drywall and ceiling tile installers, tapers, plasterers, and stucco mason,352;
+material moving occupation,243;
+mover,243;
+artist (or related worker),092;
+artists and related workers,092;
+artist,092;
+musical instrument repairers and tuner,356;
+tuner,356;
+musical instrument repairer,356;
+teller,126;
+bank teller,126;
+dietitians and nutritionist,077;
+nutritionist,077;
+dietitian,077;
+industrial machinery mechanics and millwright,191;
+chemists and materials scientist,049;
+materials scientist,049;
+matallurgist,049;
+chemist,049;
+cooks and food preparation worker,331;
+food preparation,331;
+cook,331;
+,250
+,313
+automotive service technicians and mechanic,181;
+bill and account collector,143;
+account collector,143;
+bill collector,143;
+reposession officer,143;
+repo man,143;
+procurement clerk,279;
+geoscientists and hydrologist,288;
+hydrologist,288;
+geoscientist,288;
+announcer,087;
+maintenance and repair workers, general,194;
+repair worker,194;
+maintenance worker,194;
+,216
+physicians and surgeon,074;
+physician,074;
+surgeon,074;
+biological scientist,047;
+biologist,047;
+security guards and gaming surveillance officer,159;
+surveillance officer,159;
+security guard,159;
+agricultural workers, other,285;
+# coin, vending, and amusement machine servicers and repairer,200;
+hazardous materials removal worker,256;
+hazardous materials removal,256;
+postal service clerks,344;
+postal service clerk,344;
+# postal service mail sorters, processors, and processing machine operators ,346;
+processing machine operator,346;
+mail sorter,346;
+air traffic controller,108;
+fitness worker,296;
+fitness,296;
+,142
+elevator installers and repairer,189;
+elevator repairer,189;
+elevator installer,189;
+,029
+atmospheric scientist,051;
+registered nurse,083;
+rn,083;
+r.n.,083;
+,069
+armed forces,249;
+job opportunities in the armed force,249;
+machinist,223;
+rail transportation occupation,244;
+rail engineer,244;
+train engineer,244;
+social scientists, other,315;
+social scientist,315;
+nursing and psychiatric aide,327;
+psychiatric aide,327;
+nursing aide,327;
+nurse's aide,327;
+nurse aide,327;
+occupational health and safety technician,324;
+medical records and health information technician,103;
+health information technician,103;
+medical records technician,103;
+technician, health information,103;
+technician, medical records,103;
+,037
+billing and posting clerks and machine operator,277;
+electrician,206;
+respiratory therapy technician,322;
+technician, respiratory therapy,322;
+radio and telecommunications equipment installers and repairer,188;
+radio repairer,188;
+radio installer,188;
+engineering and natural sciences manager,009;
+engineering manager,009;
+bookbinders and bindery worker,232;
+bookbinder,232;
+bus driver,242;
+reservation and transportation ticket agents and travel clerk,135;
+travel agent,135;
+travel clerk,135;
+ticket agent,135;
+reservation clerk,135;
+reservations clerk,135;
+,185
+budget analyst,003;
+aircraft pilot or flight engineer,107;
+aircraft pilots and flight engineers,107;
+flight engineer,107;
+aircraft pilot,107;
+pilot,107;
+meter readers, utilities,282;
+meter reader,282;
+utility meter reader,282;
+radiation therapist,299;
+# news analysts, reporters, and correspondent,088;
+correspondent,088;
+reporter,088;
+news analyst,088;
+emergency medical technicians and paramedic,101;
+emergency medical technician,101;
+emergency medical paramedic,101;
+paramedic,101;
+medical equipment repairer,355;
+speech-language pathologist,099;
+speech pathologist,099;
+language pathologist,099;
+physical therapist assistants and aide,167;
+#assistant, physical therapy,167;
+physical therapy assistant,167;
+# aide, physical therapy,167;
+physical therapy aide,167;
+physical therapy assistant,167;
+physical therapist aide,167;
+physical therapist assistant,167;
+industrial machinery mechanics and millwright,353;
+industrial mechanic,353;
+millwright,353;
+industrial machinery mechanic,353;
+prepress technicians and worker,230;
+prepress technician,230;
+prepress worker,230;
+nursing and psychiatric aide,165;
+psychiatric aide,165;
+nursing aide,165;
+respiratory therapist,084;
+respiratory therapist,321;
+taxi drivers and chauffeur,245;
+chauffeur,245;
+taxi driver,245;
+# brickmasons, blockmasons, and stonemason,201;
+stonemason,201;
+blockmason,201;
+brickmason,201;
+# purchasing managers, buyers, and purchasing agent,023;
+buyers,023;
+purchasing manager,023;
+purchasing agent,023;
+diesel service technicians and mechanic,182;
+diesel service mechanic,182;
+diesel service technician,182;
+diesel mechanic,182;
+diesel technician,182;
+truck mechanic,182;
+truck technician,182;
+# eligibility interviewers, government program,133;
+eligibility interviewer,133;
+employment representative,133;
+benefits interviewer,133;
+# heating, air-conditioning, and refrigeration mechanics and installer,192;
+refrigeration installer,192;
+refrigeration mechanic,192;
+air-conditioning installer,192;
+air-conditioning mechanic,192;
+heating mechanic and installer,192;
+heating installer,192;
+automotive body and related repairer,180;
+automobile mechanic,180;
+mechanic,180;
+auto mechanic,180;
+car mechanic,180;
+# television, video, and motion picture camera operators and editor,091;
+television editor,091;
+camera operator,091;
+video editor,091;
+statistician,045;
+musicians, singers, and related worker,095;
+singer,095;
+musician,095;
+fashion designer,291;
+agricultural workers, other,349;
+instructional coordinator,269;
+,061
+customer service representative,280;customer,service,representative
+physician assistant,081;physician,assistant,doctor,assist,help
+doctor's assistant,081;
+doctors assistant,081;
+doctor assistant,081;
+advertising sales agent,297;advertising,sales,agent
+sales agent,297;
+advertising agent,297;
+data entry and information processing worker,155;data,entry,information,processing,clerk
+information processing,155;
+data entry,155;
+data entry clerk,155;
+top executive,012;
+real estate brokers and sales agent,120;broker,agent,real,estate,sales
+real estate broker,120;
+real estate agent,120;
+broker,120;
+sales worker supervisor,025;sales,manager,supervisor,work,employee,lead
+sales supervisor,025;
+sales manager,025;
+home appliance repairer,193;appliance,home,repair,maintenance
+author, writer, or editor,089;
+authors, writers, and editor,089;
+#author,089;
+#writer,089;
+#editor,089;
+interior designer,293;
+interior design,293;
+occupational health and safety specialists,323;
+safety specialist,323;
+occupational health specialist,323;
+woodworker,237;wood,work,carve,finish
+dispatcher,342;dispatch,dispatcher
+police, fire, and ambulance dispatcher,138;dispatcher,emergency,police,fire,ambulance,call
+lodging manager,015;manager,hotel,motel,inn,bed,breakfast,lodging
+web designer,1000;web,site,design,designer,specialist
+ceo,1050;
+chief executive officer,1050;chief,executive,officer
+cfo,1051;
+chief financial officer,1051;
+research scientist,1100;research,scientist,associate
+research associate,1100;
+senior research associate,1101;senior,research,associate
+assistant professor,1102;professor,assistant
+associate professor,1103;professor,associate,tenure
+professor,1103;
+research intern,1104;
+consultant,1200;
+consultation,1200;
+pr consultant,1201;consultant,pr,public,relations,marketing
+marketing consultant,1202;
+marketing communications executive,1300;
+event manager,1301;
+program manager,1350;coordinator,coordinate,program,manager,event
+coordinator,1400;
+* coordinator,1401;
+* consultant,1600;
+computer consultant,1601;consultant,computer
+rehabilitation consultant,1602;consultant,rehabilitation,rehab,rehabilitate,physical,patient
+personal shopper,2000;personal,shopper,butler
+attorney,053;
+counsel,053;
+chief counsel,1501;
+* attorney,053;
+law clerk,1500;
+web site developer,1700;develop,website,web,sql,program,database,java,net,network,programmer,program,developer
+website developer,1700;
+teacher,1800;teacher,student,school,taught
+* teacher,1800;
+taught *,1800;
+tutor,1801;instructor,student,
+instructor,1801
+* tutor,1801;
+assistant superintendent,1850;
+instructor,1802;
+* instructor,1802;
+guidance counselor,1803;student,advise,
+mayor,1900;city,construction,administration,town
+toxicologist,2000;medical,toxicology
+gameplay mechanic,2100;game,development
+game designer,2100;
+gameplay designer,2100;
+world designer,2100;
+world builder,2100;
+level designer,2100;
+level design,2100;
+tax preparer,2200;tax,prepare,preparer
+modeler,2300;finance,quantitative,model,build,complex,statistical,statistics,forecast,quant
+quantitative modeler,2300;
+quantitative analyst,2300;
+quant,2300;
+financial modeler,2300;
+officer,2400;officer,military,army,marine,navy
+reserve officer,2401;reserve,army,officer,military
+army,2402;army,enlisted,us,military,soldier
+u s army,2402;
+marines,2403;marines,marine,us,military
+u s marine,2403;
+navy,2404;navy,u,s,sail,submarine,sub,nuclear,torpedo
+u s navy,2404;
+sailor,2404;
+air force,2404;air,force,pilot,military,fly,jet,plane
+principal software engineer,2500;
+senior software engineer,2500;
+software tester,2501;
+qa engineer,2501;
+q.a. engineer,2501;
+help desk manager,2502;support,supervisor,manager,services
+helpdesk manager,2502;
+helpdesk supervisor,2502;
+pc support supervisor,2502;
+pc support services supervisor,2502;
+pc support manager,2502;
+pc support services manager,2502;
+quality assurance engineer,2601;
+engineering technician,2603;engineering,technician,aide,assistant,trainee,apprentice
+engineering aide,2602;
+engineering assistant,2602;
+assistant engineer,2602;
+apprentice engineer,2602;
+engineer apprentice,2602;
+engineering apprentice,2602;
+engineer trainee,2602;
+aerospace engineer,2603;engineer,aerospace,space,flight,nasa,government,federal
+agricultural engineer,2604;engineer,agricultural,agriculture,land,farm
+automotive engineer,2605;engineer,automotive,auto,car,motors,ford,hyundai,honda,general,manufacturing,steering
+ceramics engineer,2606;engineer,ceramics,materials
+chemical engineer,2607;engineer,chemical
+civil engineer,2608;engineer,civil,city
+electrical engineer,2609;engineer,electrical,electronics,micro
+environmental engineer,2610;engineer,environmental,atmosphere,land
+geotechnical engineer,2611;engineer,geotechical,geology,earth,surface
+industrial engineer,2612;engineer,industrial,factory,operations,assembly,manufacturing,manufacture
+materials engineer,2613;engineer,materials,material,metallurgist,silicon,hardness
+metallurgical engineer,2614;engineer,metallurgical,metallurgist,hardness
+oceangeographic engineer,2615;engineer,oceangeographical,marine,biology,plankton,sea,water
+petroleum engineer,2616;engineer,petroleum,oil,refine,refinery,minerals,mineral,resources
+safety engineer,2617;engineer,safety,hazard
+broadcast and sound engineering technicians and radio operator,109;broadcast,engineer,technician,radio,operator,sound
+broadcast engineer,109;
+sound engineer,109;
+broadcast engineering technician,109;
+radio operator,109;
+sound engineering technicians,109;
+structural engineer,2619;engineer,structural,structure
+transportation engineer,2620;engineer,transportation,public,transport
+author,2700;author,writer,editor,article,script,writing,book,journal
+writer,2701;writer,news,blog,editor,paper,journal
+editor,2702;editor,author,writer,writing
+education administrator,007;
+principal,2800;principal,school,education,student
+vice principal,2801;vice,principal,school,education,teacher
+superintendent,2802;superintendant,board,education,chairman
+student dean,2803;dean,student,students,school
+dean of students,2803;
+dean of admission,2804;dean,admission,student,students

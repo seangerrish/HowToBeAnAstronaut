@@ -1,0 +1,121 @@
+NATHAN HAINES
+PHONE +1-562-787-2960 • EMAIL NATHAN@NHAINES.COM
+
+OBJECTIVE
+I am seeking to join a company where I can use my abilities to work with others in an atmosphere where I can
+experience professional and personal growth through new technical challenges.
+SKILLS
+•
+
+Public speaking and training experience
+
+•
+
+OCR and photo manipulation
+
+•
+
+Windows, Macintosh, and Linux experience
+
+•
+
+Quick to learn/detail-oriented
+
+•
+
+Advanced Excel, Python, HTML, CSS, 100wpm
+
+•
+
+Conversant in German
+
+EMPLOYMENT
+9/2008 – 12/2009 Fonality, Inc.
+Culver City, California
+Technical Support Engineer
+• Specialized in PBXtra and trixbox Pro configuration and maintenance, as well as Aastra and Polycom
+IP phone and Sangoma T1 and analog card operation and troubleshooting. Provided phone and email
+support for over 5,000 customers in all areas of system configuration, installation, setup, and problem
+resolution Expediently provided emergency support focused on minimizing downtime and then
+resolving root causes. Used SSH to remotely work on Linux and Asterisk-based IP PBX systems.
+12/2007 – 9/2008 Soft-Train, Inc.
+Santa Ana, California
+Lead Technical Consultant
+• As a contractor for Soft-Train, lead a an upgrade and data migration project for the City of Culver City,
+California. Supervising three subordinates, replaced 140 employee computers over a six week period.
+Was responsible for refining procedures, preparing and troubleshooting new hardware, migrating data
+from older computers to their replacements, and upgrading RAM in non-replaced computers.
+Refurbished 30 replaced computers for redeployment in house and donation to the city youth
+recreation center. Performed quality assurance on new hardware and handed data migration and
+hardware problems with replacement computers.
+Instructor
+• Taught day-long training courses to business people on various computer programs. Class sizes ranged from
+1 to 15 students. Tailored instructional focus to the needs and interests of each class. Topics covered
+included Windows XP, Microsoft Office versions 2000 through 2007, including: Access, Excel, FrontPage,
+Outlook, PowerPoint, Publisher, Word, and custom courses on transitioning from Office 2003 to Office 2007.
+Taught on-site across Los Angeles, Orange, and Riverside Counties. Additionally delivered instructional
+material weekly to other instructors over the above area plus San Diego and Ventura Counties.
+9/2006 – 11/2007 Quest International, Inc.
+Irvine, California
+ITSD Operations Support and Customer Service Lead
+• Continued to manage 4800-system billing and macros. Audited and managed proprietary online service call
+database and asset management system. Automated invoicing and price calculation procedures for critical
+accounts with existing and custom software. Wrote performance and cost analysis software using Python,
+converting from online database to finished invoice worksheet in Excel. Handled service calls and vendor
+communication, and provided backup support to call desk and Operations team.
+Accounts Receivable
+• Performed Accounts Receivable duties in accounting. Audited hardware maintenance contracts for proper
+billing. Developed VBA macros to automate monthly hardware contract costs per machine for 4800
+machines to help normalize and check monthly billing trends and changes.
+
+7/2003 – 9/2006 Freelance work
+Long Beach, California
+Computer Consultant
+• Designed and built custom computer systems for home users, offered computer troubleshooting and repair
+plus system optimization and basic maintenance education. Designed Linux systems for server and home
+use utilizing SuSE Linux 9.x and Ubuntu 5.04 and above. Acted as a property manager and provided financial
+accounting for a court-ordered conservatorship.
+3/2001 – 7/2003 Long Beach City College
+Long Beach, California
+Computer Technician
+• Oversaw a small Macintosh and PC faculty lab. Answered support hotline. Assisted school faculty with
+computer use and facilitated the adaption and creation of online coursework. Designed and maintained
+course Web pages and handled OCR, image scanning, and color correction. Created a helpdesk operations
+manual that contained all operational procedures as well as new employee training material and reference
+guide.
+11/1999 – 8/2000 Long Beach City College
+Long Beach, California
+Computer Technician
+• Performed routine maintenance and installation of Macs and PCs on campus. Worked with a trouble ticket
+system to travel to affect machines and troubleshoot and remedy problems. Created disk images for
+automated system setup of in-use computer models. Set up several computer labs from scratch.
+6/1998 – 8/1998
+Bellflower Unified School District
+Bellflower, California
+Computer Technician
+• As a summer job for the district, assisted the district's Educational Technology department. Maintained and
+repaired computers district-wide. Built computer labs in newly constructed schools.
+VOLUNTEER WORK
+9/2007 – present
+The Ubuntu Project
+California, United States
+Ubuntu Member and California Local Community Team Leader
+• Joined the local community team to assist in Ubuntu advocacy and education. Helped run an installfest, ran
+booths at California shows and gave presentations on Ubuntu and Free Software-related topics. Designed
+team logo and various badges and artwork. Helped organize and run community and show events.
+Performed training on various topics for local Linux User Groups. Packaged software for redistribution.
+Author of two articles published in Linux Identity Magazine. Became an Ubuntu Member in May 2008.
+1/1999 – 4/2003
+The ticalc.org Project
+Sollentuna, Sweden
+Help Mail and News Editor
+• Worked over SSH answering support mail from the scientific graphing calculator user community, assisting
+with operational and community questions. Added news entries to the Web site and moderated and
+participated in comment boards for news articles over the Web.
+EDUCATION
+1998 – 2003
+Long Beach City College
+Long Beach, California
+• Worked toward a degree in Computer and Business Information Systems. Currently on hiatus.
+
+

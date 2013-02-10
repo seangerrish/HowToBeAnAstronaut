@@ -1,0 +1,608 @@
+JACQUELINE M. H UGHES -O LIVER
+Department of Statistics
+North Carolina State University
+Raleigh, NC 27695-8203
+(919) 515–1954
+hughesol@ncsu.edu
+
+108 New Bingham Court
+Cary, NC 27513
+(919) 468–5291
+
+Major Areas of Research and Applications
+Drug Discovery, Cheminformatics, Data Mining, Group Testing, Ontology-Guided Analysis,
+Point Source Modeling, Spatial Modeling, Covariance Nonstationarity, Transportation Modeling.
+Education
+• Ph.D., Statistics, North Carolina State University, Raleigh, May 1991.
+Split minor: Mathematics and Operations Research
+Dissertation topic: Estimation Using Group-Testing Procedures: Adaptive Iteration.
+Advisor: Dr. William H. Swallow.
+• Bachelor of Arts, Magna Cum Laude with High Honors in Mathematics, University of Cincinnati, College of Arts and Sciences, Cincinnati, Ohio, June 1986.
+Research And Work Experience
+• July ’07–Present: Co-Director of Graduate Programs, Department of Statistics, North Carolina
+State University
+• July ’06–Present: Professor of Statistics, North Carolina State University
+• Aug ’03–May ’04: SAMSI Faculty Fellow for the Program on Data-Mining and Machine Learning, Statistical & Applied Mathematical Sciences Institute
+• July ’99–June ’06: Associate Professor of Statistics, North Carolina State University
+• July ’99–Present: Member of the Genomics Faculty, North Carolina State University
+• Aug ’92–June ’99: Assistant Professor of Statistics, North Carolina State University
+• Aug ’91–July ’92: Visiting Assistant Professor of Statistics, Univ. of Wisconsin at Madison
+• June ’89–May ’90: Mathematical Statistician, National Institute of Environmental Health Sciences
+• May ’88–August ’88: Statistical Associate, Glaxo Incorporated
+• June ’85–July ’86: Statistical Trainee, Environmental Protection Agency
+Grants
+• EMSW21-RTG: A Research Training Group in Variable Selection (ARTGIVS). I am PI, with
+several co-PIs. National Science Foundation. Requested budget $2,498,731 over period 7/1/106/30/15. Pending.
+• EMSW21-MCTP:PREPSS. Pamela Arroway is PI. I am a co-PI. National Science Foundation.
+Requested budget $2,413,318 over period 1/1/10-12/31/14. Pending.
+October 31, 2009
+
+J.M. Hughes-Oliver
+
+page 2 of 14
+
+• Inﬂuence of Metal-Working Fluid Formulations on Dermal Absorption of Biocides. Ronald
+Baynes is PI. I am a co-PI. National Institutes of Health. Requested budget $735,295 over period
+4/1/10-3/31/13. Pending.
+• Mentoring Students to Total Success. Pamela Arroway is PI. I am a co-PI. National Science
+Foundation. Funded at $600,000 over period 9/1/08-8/31/2013.
+• Comparative and Web-Enabled Virtual Screening. I am PI, with co-PIs Stanley Young and
+Douglas Hawkins. National Human Genome Research Institute, National Institutes of Health,
+Roadmap Initiative. Funded at $1,111,110 over period 9/23/05-7/31/09.
+• General Data-Analysis Tools to Relate Chemical Diversity to Biological Outcomes. Paul Clemons
+is PI. I was Other Investigator. Oct 2005–Sept 2007. National Human Genome Research Institute, National Institutes of Health, Roadmap Initiative. Funded at about $750,000.
+• Ontology enhanced statistical analysis. GlaxoSmithKline. One month of summer 2005 salary to
+direct a Graduate Industrial Trainee working for GlaxoSmithKline. Funded.
+• Benchmarking Computational Models for Drug Discovery: Chemical Descriptors, Model Validation, and Model Applicability Criteria. NISS APDF Proposal. $9,600. I was PI, with co-PIs
+William Welch, Alex Tropsha, Yvonne Martin. Funded.
+• Extension of “A Spatial Editing and Validation Process for Short Count Trafﬁc Data.” Dec 2003–
+June 2004. North Carolina Department of Transportation, Division of Planning and Environment. Funded at $45,000.
+• Engaging the Next Generation of Biostatisticians. (Co-PIs are Dennis D. Boos and Marie Davidian; other investigators are Andrew S. Allen, Kevin J. Anstrom, Robert M. Califf, Robert A.
+Harrington, Victor Hasselblad, Jacqueline M. Hughes-Oliver, William H. Swallow, Anastasios
+A. Tsiatis, Kimberly S. Weems, Daowen Zhang.) Sept 2003–Aug 2007. National Heart, Lung,
+and Blood Institute of the National Institutes of Health. Funded at $802,560.
+• Extension of “A Spatial Editing and Validation Process for Short Count Trafﬁc Data.” June 2003–
+Dec 2003. North Carolina Department of Transportation, Division of Planning and Environment.
+Funded at $14,073.
+• A Spatial Editing and Validation Process for Short Count Trafﬁc Data. 2001–2003. North Carolina Department of Transportation, Division of Planning and Environment. Funded at $195,954.
+• Nonstationary Spatial Modeling for Multiple Point Sources with Applications to Environmental
+Data. (With Sujit K. Ghosh.) 2000-2004. National Science Foundation, Division of Mathematical Sciences. Funded at $200,000.
+• Statistics in Drug Discovery. 2000–2002. National Science Foundation, Division of Mathematical Sciences. Funded at $38,378.
+• Spatio-Temporal Statistical Models for the Environment. (Graciela Ma. Gonzalez Farias, in
+Mexico, is PI. I am co-investigator.) 2000–2001. Consejo Nacional de Ciencia y Tecnologia
+(CONACYT, the Mexican equivalent of the US National Science Foundation).
+• Modeling and Estimation for Electronics and Semiconductor Products. (With J. C. Lu, S. Ghosh,
+W. C. Holton.) 1998. National Science Foundation, Division of Mathematical Sciences. Funded
+at $70,000.
+• Nonlinear Modeling of Spatially Correlated Data: Preliminary Investigation. 1996. National Science Foundation, Division of Mathematical Sciences. Funded at $18,000.
+• Across-stage Supervisory Process Control Systems. (With J. C. Lu, D. D. Boos, B. B. Bhattacharyya, R. S. Gyurcsik.) 1996. National Science Foundation, Division of Mathematical Sciences. Funded, but after NSF decided to fund this project I withdrew my name as co-PI to avoid conﬂict
+with the award for Nonlinear Modeling of Spatially Correlated Data: Preliminary Investigations.
+October 31, 2009
+
+J.M. Hughes-Oliver
+
+page 3 of 14
+
+• Faculty Research and Professional Development. 1992. A Uniformly More Efﬁcient and Robust
+Adaptive Group-Testing Estimator for Proportions. Funded at $3,000.
+• Grants in Support of Graduate Industrial Traineeships for which I am PI:
+– Graduate Industrial Traineeship - Suraj Prakash Anand. GlaxoSmithKline. Funded at $25,620
+over period 5/16/08-12/15/08.
+– Graduate Industrial Traineeship - Min Zhang. Duke Clinical Research Institute (DCRI),
+Duke University. Funded at $38,400 over period 8/16/07-8/15/08.
+– Graduate Industrial Traineeship - Funda Gunes. Duke Clinical Research Institute (DCRI),
+Duke University. Funded at $38,400 over period 8/16/07-8/15/08.
+– Graduate Industrial Traineeship - Huiping Miao. Talecris Biotherapeutics, Inc. Funded at
+$36,025 over period 9/17/07-8/15/08.
+– Graduate Industrial Traineeship - Paramita Saha. SAS Institute, Inc. Funded at $40,376 over
+period 8/20/07-8/15/08.
+– Graduate Industrial Traineeship - McKay Curtis. SAS Institute, Inc. Funded at $44,255 over
+period 8/20/07-8/15/08.
+– Graduate Industrial Traineeship - Carl DiCasoli. Clinsys Clinical Research, Inc. Funded at
+$23,693 over period 1/7/08-8/15/08.
+– Graduate Industrial Traineeship - Samuel Wilson. Clinsys Clinical Research, Inc. Funded
+at $21,019 over period 2/4/08-8/15/08.
+– Graduate Industrial Traineeship - Yen-Wei Li. Duke University. Funded at $15,248 over
+period 1/2/08-5/15/08.
+– Graduate Industrial Traineeship - Eun Hye Lee. Clinsys Clinical Research, Inc.. Funded at
+$39,517 over period 8/16/08-8/15/09.
+– Graduate Industrial Traineeship - Jingwen Zhou. Waratah Corporation. Funded at $7,658
+over period 1/1/09-5/15/09.
+– Graduate Industrial Traineeship - Jingwen Zhou. Waratah Corporation. Funded at $12,032
+over period 5/16/09-8/15/09.
+– Graduate Industrial Traineeship - Yuan Li. SAS Institute, Inc. Funded at $41,147 over period 8/16/08-8/15/09.
+– Graduate Industrial Traineeship - Shuai Yuan. GlaxoSmithKline. Funded at $43,376 over
+period 8/16/08-8/15/09.
+– Graduate Industrial Traineeship - Muhtarjan Osman. Inspire Pharmaceuticals. Funded at
+$114,929 over period 9/10/07-8/15/10.
+– Graduate Industrial Traineeship - Ani Eloyan. SAS Institute, Inc. Funded at $88,412 over
+period 8/16/08-8/15/10.
+– Graduate Industrial Traineeship - Ian Fiske. SAS Institute, Inc. Funded at $47,565 over
+period 8/16/09-8/15/10.
+Publications
+Refereed Articles:
+• Nail, A.J., Hughes-Oliver, J.M., Monahan, J.F. 2009. Quantifying Local Creation and Regional Transport using a Hierarchical Space-Time Model of Ozone as a Function of Observed NOx, a Latent Space-Time VOC Process, Emissions, and Meteorology. Journal of
+Agricultural, Biological, and Environmental Statistics. In press.
+October 31, 2009
+
+J.M. Hughes-Oliver
+
+page 4 of 14
+
+• Heo, T.Y. and Hughes-Oliver, J.M. 2009. Uncertainty Adjustments to Deterministic Atmospheric Dispersion Models. International Journal of Environment and Pollution. In press.
+• Hughes-Oliver, J.M., Brooks, A.D., Welch, W.J., Khaledi, M.G., Hawkins, D., Young, S.S.,
+Patil, K., Howell, G.W., Ng, R.T., Chu, M.T. 2009. ChemModLab: A web-based cheminformatics modeling laboratory. Cheminformatics. In press.
+• Shen, H., Welch, W.J., Hughes-Oliver, J.M. 2008. Efﬁcient, adaptive cross validation for
+tuning and comparing models. Submitted to Annals of Applied Statistics. Accepted subject
+to minor revisions.
+• Zhang, K., Hughes-Oliver, J.M., and Young, S.S. 2008. Analysis of large structure-activity
+data sets using all subsets presence or absence recursive partitioning. Tentatively accepted
+by Technometrics.
+• Zhang, Q., Hughes-Oliver, J.M., Ng, R.T. 2009. A Model-Based Ensembling Approach for
+Developing QSARs. Submitted to Journal of Chemical Information and Modeling, 49(8),
+1857–1865.
+• Hughes-Oliver, J.M., Heo, T.Y. and Ghosh, S.K. 2009. An autoregressive point source
+model for spatial processes. Environmetrics, 20(5), 575-594.
+• Liu, J., Hughes-Oliver, J.M., and Menius, J.A. 2007. Domain-enhanced analysis of microarray data using GO annotations. Bioinformatics, 23, 1225–1234.
+• Remlinger, K.S., Hughes-Oliver, J.M., Young, S.S., and Lam, R. 2005. Statistical Design
+of Pools Using Optimal Coverage and Minimal Collision. Technometrics, 48(1), 133–144.
+• Hughes-Oliver, J.M. Pooling experiments for blood screening and drug discovery. 2006. In
+Screening: Methods for Experimentation in Industry, Drug Discovery, and Genetics, edited
+by Dean, A.M. and Lewis, S.M. and published by Springer-Verlag New York, Inc. (All
+chapters in this book were refereed by at least two reviewers.)
+• Yi, B., Hughes-Oliver, J. M., Zhu, L., and Young, S. S. 2002. A Factorial Design to Optimize Cell-Based Drug Discovery Analysis. Journal of Chemical Information and Computer
+Sciences, 42, 1221–1229.
+• Hughes-Oliver, J. M. 2002. Standard error. In Encyclopedia of Environmetrics, volume 4,
+edited by A. H. El-Shaarawi and W. W. Piegorsch, Wiley.
+• Zhu, L., Hughes-Oliver, J. M., and Young, S. S. 2001. Statistical decoding of potent pools
+based on chemical structure. Biometrics, 57 (3), 922–930.
+• Hughes-Oliver, J. M. and Rosenberger, W. F. 2000. Efﬁcient estimation of the prevalence
+of multiple rare traits. Biometrika, 87 (2), 315–327.
+• Boos, D. D. and Hughes-Oliver, J. M. 2000. How large does n have to be for Z and t
+intervals? The American Statistician, 54 (2), 121–128.
+• Rosenberger, W. F. and Hughes-Oliver, J. M. 1999. Inference from a sequential design:
+proof of a conjecture by Ford and Silvey. Statistics and Probability Letters, 44 (2), 177–
+180.
+• Su, C., Lu, J. C., Chen, D., and Hughes-Oliver, J. M. 1999. A random coefﬁcient degradation model with random sample size. Lifetime Data Analysis, 5 (2), 173–183.
+• Lu, J. C., Liu, S., Yin, M., and Hughes-Oliver, J. M. 1999. Modeling restricted bivariate
+censored lowﬂow data. Environmetrics, 10 (2), 125–136.
+• Hughes-Oliver, J. M. and Gonzalez-Farias, G. 1999. Parametric covariance models for
+shock-induced stochastic processes. Journal of Statistical Planning and Inference, 77 (1),
+51–72.
+October 31, 2009
+
+J.M. Hughes-Oliver
+
+page 5 of 14
+
+• Chen, D., Lu, J. C., Hughes-Oliver, J. M., and Li, C. S. 1998. Asymptotic properties of
+maximum likelihood estimates for a bivariate exponential distribution and mixed censored
+data. Metrika, 48 (2), 109–125.
+• Hughes-Oliver, J. M., Gonzalez-Farias, G., Lu, J. C., and Chen, D. 1998. Parametric nonstationary correlation models. Statistics and Probability Letters, 40 (3), 267–278.
+• Hughes-Oliver, J. M., Lu, J. C., Davis, J. C., and Gyurcsik, R. S. 1998. Achieving uniformity in a semiconductor fabrication process using spatial modeling. Journal of the American
+Statistical Association, 93 (441 and 443), 36–45 and 1252.
+• Boos, D. D. and Hughes-Oliver, J. M. 1998. Applications of Basu’s theorem. The American
+Statistician, 52 (3), 218–221.
+• Hughes-Oliver, J. M. 1998. Optimal designs for nonlinear models with correlated errors.
+In Lecture Notes–Monograph Series Volume 34: New Developments and Applications in
+Experimental Design, edited by N. Flournoy, W.F. Rosenberger, and W.K. Wong, 163–174.
+Hayward.
+• Davis, J. C., Hughes-Oliver, J. M., Lu, J. C., and Gyurcsik, R. S. 1996. Improved withinwafer uniformity modeling through the use of maximum likelihood estimation of the mean
+and covariance surfaces. Journal of the Electrochemical Society, 143 (10 and 12), 3404–
+3409 and 4129.
+• Davis, J. C., Gyurcsik, R. S., Lu, J. C., and Hughes-Oliver, J. M. 1996. A robust metric
+for measuring within-wafer uniformity. IEEE Transactions on Components, Packaging, and
+Manufacturing Technology—Part C, 19, 283–289.
+• Hughes-Oliver, J. M. and Swallow, W. H. 1994. A two-stage adaptive group-testing procedure for estimating small proportions. Journal of the American Statistical Association, 89
+(427), 982–993.
+• Brownie, C., Boos, D. D., and Hughes-Oliver, J. 1993. A note on the operating characteristics of the modiﬁed F-test—Response. Biometrics, 49 (3), 939–939.
+• Brownie, C., Boos, D. D., and Hughes-Oliver, J. 1990. Modifying the t and ANOVA F tests
+when treatment is expected to increase variability relative to controls. Biometrics, 46 (1),
+259–266.
+Patent Application
+• Hughes-Oliver, J.M., Young, S.S., Zhang, K., and Brooks, A.D. 2005. Optimal Bit String
+Recursive Partitioning Tree (OBSTree). Filed June 2005.
+Proceedings Articles (no overlap with Refereed Articles):
+• Zhang, K. and Hughes-Oliver, J. M. 2003. Analysis of a Large Structure/Biological Activity Data Set Using Recursive Partitioning and Simulated Annealing. Institute of Statistics
+Mimeograph #2542.
+• Yi, B., Hughes-Oliver, J. M., Young, S. S., and Zhu, L. 2001. Latent class regression analysis on the potency of chemical compounds and comparison to recursive partitioning. Proceedings of the 2001 Joint Statistical Meetings.
+• Hahn, W. P., Hughes-Oliver, J. M., and Swallow, W. H. 1996. Robustness of group testing
+in the estimation of proportions. Proceedings of the 1996 Joint Statistical Meetings.
+Technical Reports (no overlap with Refereed Articles or Non-refereed Book Chapters or Proceedings
+Articles):
+• Hughes-Oliver, J.M., Heo, T.Y., and McDonald, S. 2008. A Spatial Editing And Validation
+Process For Short Count Trafﬁc Data. NCDOT Project Authorization Number HWY-200209. Final Report. To appear in Transportation Research Board as FHWA/NC/2006-59.
+October 31, 2009
+
+J.M. Hughes-Oliver
+
+page 6 of 14
+
+• Hughes-Oliver, J.M., Heo, T.Y., and McDonald, S. 2008. Research Digest: A Spatial Editing And Validation Process For Short Count Trafﬁc Data. NCDOT website.
+• Peraza-Garay, F., Gonzalez-Farias, G., and Hughes-Oliver, J. M. 2001. Bayesian modeling
+of the effect of point sources. CIMAT Technical Report Series.
+• Langfeldt, S. A., Hughes-Oliver, J. M., Ghosh, S. K., and Young, S. Optimal group testing
+in the presence of blockers. 1997. Institute of Statistics Mimeo Series No. 2297.
+• Hughes-Oliver, J. M.. Characterizing the behavior of some boxplot rules for outlier detection. 1996. Institute of Statistics Mimeo Series No. 2282.
+• Hughes-Oliver, J. M. and Swallow, W. H. Choosing the group size for group testing to
+estimate a proportion. 1992. Institute of Statistics Mimeo Series No. 2209.
+• Marshall, P. and Hughes-Oliver, J. M. Teachers and diverse students: A different look at
+teaching concerns.
+• Hughes-Oliver, J. M. and Piegorsch, W. W. Bayesian hypothesis testing for umbrella alternatives, with applications to genotoxicity assays.
+Service:
+• StatFest Committee. 2004. StatFest @ NC State is a Huge Success! Amstat News, Committee News, January, 9-10.
+• Hughes-Oliver, J. M. 2001. Integrating into ASA: Becoming an Active Member. Amstat
+News, Career Corner, January, 25–26.
+• Hughes-Oliver, J. M. 2001. SIE at JSM 2001, A Delightful Dish! Amstat News, Section
+News, March, 35–36.
+• Hughes-Oliver, J. M. 2001. SIE 2001 Student Paper Competition. Papers due June 1. Amstat News, Section News, March, 36.
+• Hughes-Oliver, J. M. 2001. Have an Idea for an SIE Invited Session? Travel Funds are
+Available! Amstat News, Section News, March, 36.
+Presentations
+Invited Talks
+• A Statistician’s Tour of Duty in the World of Drug Discovery. Department of Statistics,
+George Mason University. Fairfax, Virginia. July 2009.
+• ChemModLab: QSAR modeling and model-based searching. 2009 Spring Research Conference on Statistics in Industry and Technology. May 2009. Vancouver, Canada.
+• Analysis of High-Dimensional Structure-Activity Screening Datasets Using the Optimal Bit
+String Tree. Blackwell-Tapia Conference. November 2008.
+• ChemModLab: QSAR modeling and model-based searching. NCSU Department of Statistics. November 2008.
+• Properties of Ensemble Models for Supervised Learning. American Chemical Society (ACS)
+Meetings. New Orleans, Louisiana. April 2008.
+• ChemModLab: QSAR Modeling and Model-Based Searching. Department of Statistics,
+George Mason University. Fairfax, Virginia. April 2008.
+• ChemModLab: QSAR Modeling and Model-Based Searching. Department of Statistics,
+University of Iowa. Iowa City, Iowa. January 2008.
+• Pathway-Based Analysis of Metabolic Proﬁles. Eastern North American Region of the International Biometrics Society (ENAR). Atlanta, Georgia. March 2007.
+October 31, 2009
+
+J.M. Hughes-Oliver
+
+page 7 of 14
+
+• Future Directions for Non-Negative Matrix Factorization. Panel presenter. Joint
+NISS-ECCR@NCSU Workshop on Non-negative Matrix Factorization. RTP, North Carolina. February 2007.
+• Analysis of High-Dimensional Structure-Activity Screening Datasets Using the Optimal
+Bit String Tree. Department of Statistics, Texas A&M University. College Station, Texas.
+February 2007.
+• ChemModLab and Measures of Assessment for QSAR Models. Workshop of the Exploratory
+Center for Cheminformatics Research at North Carolina State University (ECCR @ NCSU).
+Raleigh, North Carolina. November 2006.
+• Analysis of High-Dimensional Structure-Activity Screening Datasets Using the Optimal
+Bit String Tree. Department of Statistics, University of Michigan. Ann Arbor, Michigan.
+October 2006.
+• Pathway-Based Analysis of Metabolic Proﬁles. Metabolon (a biotechnology research company). RTP, North Carolina. September 2006.
+• Design Issues in Drug Discovery: Forming Pools Using Optimal Coverage and Minimal
+Collision. International Society For Business And Industrial Statistics (ISBIS) Conference
+2006. Lima, Peru. January 2006.
+• Design Issues in Drug Discovery: Forming Pools Using Optimal Coverage and Minimal
+Collision. Design and Analysis of Experiments (DAE) Conference 2005. Santa Fe, New
+Mexico. October 2005.
+• Statistical Adjustments to Air Dispersion Modeling for Determining the Effect of a Point
+Source. Hyderabad, India. December 2004.
+• Pooling for Detection of Synergistic Compounds. Joint Statistical Meetings. Toronto, Canada.
+August 11, 2004.
+• Twins and high dimensional data: can leave-one-out cross validation survive? International
+Federation of Classiﬁcation Societies (IFCS). Chicago, Illinois. July 18, 2004.
+• Statistical Adjustments to Air Dispersion Modeling for Determining the Effect of a Point
+Source. Spring Research Conference on Statistics in Industry and Technology. May 2004.
+• Pooling Experiments for High Throughput Screening in Drug Discovery. Quality and Productivity Research Conference. May 2004.
+• Twins and high dimensional data: can leave-one-out cross validation survive? SAMSI Closing Workshop for Data-Mining and Machine Learning. May 2004.
+• Are mixture/pooling experiments worthwhile for drug discovery? Gordon Research Conference on Statistics in Chemistry and Chemical Engineering. Invited speaker. August 2003.
+• Pooling experiments for high throughput screening in drug discovery. Spring Research Conference on Statistics in Industry and Technology. June 2003.
+• Pooling experiments for high throughput screening in drug discovery. Department of Statistics, Purdue University. West Lafayette, Indiana. October 2002.
+• Pooling experiments for high throughput screening in drug discovery. NISS Afﬁliates Technology Day: Statistical Aspects of High Throughput Screening. Research Triangle Park,
+NC. October 2002.
+• Pooling 101. GlaxoSmithKline Drug Discovery Data (3D) Workshop, Vancouver, Canada,
+July 2002.
+• Integrating into ASA: Becoming an Active Member. August 2000, Joint Statistical Meetings, Indianapolis, IN.
+• Overview of spatial statistics. Department of Computer Graphics, SAS, June 22, 1999.
+October 31, 2009
+
+J.M. Hughes-Oliver
+
+page 8 of 14
+
+• Spatial analysis of a semiconductor deposition process. Department of Statistics, Rice University, April 5, 1999.
+• Efﬁcient estimation of the prevalences of multiple rare traits. Mathematisches Forschungsinstitut Oberwolfach, Germany, November 1998.
+• Parametric covariance models for shock-induced stochastic processes II. Department of
+Statistics, North Carolina State University, November 1998.
+• Parametric covariance models for shock-induced stochastic processes I. National Institute
+of Statistical Sciences. Research Triangle Park, March 1998.
+• Curvature adjusted optimal designs for nonlinear models with correlated errors. AMS-IMSSIAM Summer Research Conference on New Developments and Applications in Experimental Designs. Seattle, Washington, June–July 1997.
+• Adaptive estimation of the prevalence of a rare trait. University of North Carolina at Chapel
+Hill, December 1996.
+• Achieving uniformity in a semi-conductor fabrication process using spatial modeling II.
+CIMAT, Mexico, July 1996.
+University of Baltimore–Maryland County, October 1996.
+University of Virginia, November 1996.
+Temple University, March 1997.
+• Achieving uniformity in a semi-conductor fabrication process using spatial modeling I.
+Interface’95, June 1995.
+Stanford University, June 1996.
+• The underrepresentation of women in academia: Identifying the issues. Crosstalk Colloquium Series of The Graduate School, North Carolina State University, Fall 1995.
+• Robust improvement of a semiconductor fabrication process via spatial modeling of the
+mean and covariance surfaces. Fall Technical Conference, Birmingham, AL, October 1994.
+• Curvature adjusted optimal nonlinear models for correlated responses. American Statistical
+Association Annual Meeting, Toronto, Canada, August 1994.
+• Robust improvement of a semiconductor fabrication process via spatial modeling of the
+mean and covariance surfaces. Institute of Mathematical Statistics Spring Research Conference, Chapel Hill, NC, June 1994.
+• Characterizing boxplot rules for outlier detection. Ohio State University, October 1993.
+• An adaptive group-testing procedure for estimating proportions. University of Cincinnati,
+March 1993.
+• Estimation using group-testing procedures: adaptive iteration. University of Wisconsin at
+Madison, September 1991.
+Invited Posters
+• Parametric covariance models for shock-induced stochastic processes. 50th Anniversary of
+the Department of Statistics at Iowa State University Conference, Ames, IA, October 1997.
+Contributed Talks
+• Pooling experiments for high-throughput screening in drug discovery. Joint Statistical Meetings. Topic Contributed session. August 2003.
+• Bayesian hypothesis testing for umbrella alternatives, with applications to genotoxicity assays. March 1990, Spring ENAR Meetings of The Biometric Society, Baltimore, MD.
+October 31, 2009
+
+J.M. Hughes-Oliver
+
+page 9 of 14
+
+Contributed Poster
+• Parametric nonstationary correlation models. Modelling Longitudinal and Spatially Correlated Data: Methods, Applications, and Future Directions, Nantucket, MA, October 1996.
+Courses Taught
+• Applied Least Squares
+• Applied Nonlinear and Generalized Linear Regression Models
+• Experimental Statistics for the Biological Sciences I
+• General Statistics Tutorial for undergraduate and graduate students
+• Introduction to Mathematical Statistics I
+• Introduction to Mathematical Statistics II
+• Introduction to Probability and Distribution Theory
+• Special Topics in Statistics (Independent Study with Honors students)
+• Statistical Quality Control and Productivity Improvement
+• Statistical Theory II
+• Statistics for Geneticists, a module in the Institute of Statistical Genetics
+• Summer Institute for Training in Biostatistics, SIBS at NC State
+Doctoral Students Directed
+• Cheng Su. (Co-chair was J. C. Lu.) Graduated December, 1996.
+• William P. Hahn. (Co-chair was W. H. Swallow.) Graduated August, 1997.
+• Lei Zhu. (Co-chair was S. S. Young.) Graduated August, 2000.
+• David Wilson. (Co-chair was D. D. Boos.) Graduated December, 2002.
+• Bingming Yi. (Co-chair was S. S. Young.) Graduated May, 2003.
+• Katja Remlinger. (Co-chair was S. S. Young.) Graduated July, 2004.
+• Tae-Young Heo. Graduated August, 2005.
+• Ke Zhang. Graduated May, 2006.
+• Jiajun Liu. Graduated August, 2007.
+• Amy Nail. Graduated December, 2007.
+• Atina Brooks. Anticipated completion date is May, 2010.
+Department And University Service
+• Department:
+– Co-Director of Graduate Programs, with primary responsibility for admission and support
+decisions, 2007–
+– Departmental reviewer and evaluator of FLE presentation videos - assess English skills, Fall
+2007–
+– Graduate Admissions Committee, Chair, Summer 2007–
+– Course & Curriculum Committee, Fall 2007–
+– Cox Fellowship Committee, 2008–
+– Basic Exam Committee: Jan 2009, Jan 2010
+October 31, 2009
+
+J.M. Hughes-Oliver
+
+page 10 of 14
+
+– Search Committee, 2008–2009
+– Presenter at the Inﬁnite Possibilities Conference. Raleigh, North Carolina. November 2007
+– Participant in the Visit NC State Day (designed to attract under-represented minorities to
+attend graduate school at NC State University). 2008, 2009
+– PAMS Health Cluster Committee, 2008
+– Mason Award Selection Committee, Member 2007-2008
+– Seminar Committee (Chair), July 2006-June 2007
+– PhD Preliminary Written Exam Committee, Summer & Fall 2006
+– Search Committee, Fall 2005–Spring 2006.
+– PhD Preliminary Written Exam Committee, Summer & Fall 2005
+– Diversity Oversight Director for VIGREE II, Fall 2004–2009
+– Teaching Professor Promotion Committee, May 2004–2007
+– StatFest Conference Committee (Chair), Fall 2003.
+– Department Masters’ Exam Committee. Fall 2002, Spring 2003 (Chair), Fall 2003, Spring
+2004.
+– Nomination Committee for Head of the Department of Statistics. 2001–2002.
+– Department Ph.D. Qualifying Exam Committee. Spring 2002.
+– Chair of Department Masters’ Exam Committee (ﬁrst time for the new format): Fall 2001.
+– Admissions Committee, 2000–2003.
+– Comprehensive Review Committee. 2000–2003.
+– Co-Lead (with Sastry Pantula) for Diversity Initiative, 2000–2002.
+– Selection Committee for the Sloan Foundation Awards to Support Graduate Student Family
+Activities. Fall 2000.
+– Chair of Department Basic Exam Committee. Fall 1999.
+– Department Assistant Professor Search Committee. 1996–1997.
+– Department Head Search Committee. 1993–1994.
+– Department Seminar Committee. 1993–1994.
+– Department Basic Exam Committee. Spring 1993, Fall 1994, Fall 2000, Spring 2001.
+– Recruiting activities:
+∗ NAM MATHFest XI, October 2001, Florida A&M University, Tallahassee, FL.
+∗ NAM MATHFest X, October 2000, Morgan State University, Baltimore, MD.
+∗ Spelman College, February 2001, Atlanta, GA. Also visited Morehouse College and
+Clark-Atlanta University, both in Atlanta, GA.
+∗ Participated in the Graduate School’s “Visit NC State Day” by hosting 4 students in
+Spring 2001 and meeting with 3 students in Spring 2002.
+∗ Participated in a Mentoring Workshop offered through The Graduate School. October
+2000, McKimmon Center, Raleigh, NC.
+• University:
+– College of Physical & Mathematical Sciences–Multicultural Affairs Banquet 2009, Keynote
+speaker - April 19, 2009
+– Campus Culture Task Force Committee, 2008-2009
+– Panelist for ”Association of Women Faculty - Balancing Life and Work Careers”, November
+2008
+– Invited participant of ”Breakfast with the Chancellor”, October 2008
+October 31, 2009
+
+J.M. Hughes-Oliver
+
+page 11 of 14
+
+– Search Committee, Chair - Director of Multicultural Affairs, 2008
+– Participant in the Visit NC State Day (designed to attract under-represented minorities to
+attend graduate school at NC State University). March 2008
+– Participant in the Building Future Faculty Program (designed to attract under-represented
+minorities to take faculty positions at NC State University). March 2008
+– PAMS Health Cluster Committee, 2008
+– Presentation on directing graduate student research as part of the Assistant Professors’
+Learning Community (APLC) series. November 2007
+– Executive Board of the Academy of Outstanding Teachers. 2006-2007
+– Member of the LITRE (Learning in a Technology-Rich Environment) Assessment Committee. 2006-2007
+– Speaker for the March 2007 Building Future Faculty program (designed to attract underrepresented minorities to take faculty positions at NC State University)
+– Judge for SAA-PAMS African-American History Quiz Bowl. February 26, 2005
+– Speaker for the Women in Science and Engineering (WISE) Speaker Series. The WISE
+Village is a living and learning community of female scholars, which is a joint venture of
+PAMS, Engineering and University Housing. October 13, 2004.
+– Delivered keynote address for the 2004 Annual Awards Banquet of the Society of AfricanAmerican Physical and Mathematical Scientists Banquet. April 25, 2004.
+– Panelist for ”Promotion and Tenure” Panel for the Council on the Status of Women’s (CSW)
+Professional Development Conference (PDC). April 2004
+– College of Physical & Mathematical Sciences Meeting Between Administrators and AfricanAmerican Alumni. Participant and lead for a session. November 19, 2003
+– Roundtable discussant on“Being a Woman in Science and Engineering-What can you do?”
+for the Women in Science and Engineering (WISE) Village, a living and learning community of female scholars, which is a joint venture of PAMS, Engineering and University
+Housing. August 15, 2003
+– Executive Board of the Academy of Outstanding Teachers at North Carolina State University. 2003-2006.
+– Faculty Senator for the College of Physical & Mathematical Sciences, July 2000–June 2002.
+– Personnel & Policy Committee of the Faculty Senate. 2001–2002.
+– Faculty Senate Representative to the
+∗ Computing Standing Committee, 2000–2002.
+∗ College of Physical & Mathematical Sciences Advisory Council, 2000-2001.
+– Member of the Genomics Faculty of North Carolina State University. 1999–continuing.
+– Member of the Executive Advisory Committee for the Graduate School Minority Graduate
+Education (MGE) grant. 1999–2001.
+– Nomination Committee for Dean of the College of Physical and Mathematical Sciences,
+1999–2000.
+– Panel speaker for the 1999 New Student Orientation. June 6, 1999.
+– College of Physical and Mathematical Sciences Search Committee for Director of the Imhotep
+Academy. 1998.
+– College of Physical and Mathematical Sciences Teaching Awards Committee. 1996–2000.
+– Provost’s Ad Hoc Committee. 1993.
+– Martin Luther King, Jr. Festival Committee. 1993-1997.
+
+October 31, 2009
+
+J.M. Hughes-Oliver
+
+page 12 of 14
+
+Professional Societies
+• The American Statistical Association
+• The Biometric Society
+Professional Service
+• ASA Committee on Fellows, 2009-2011
+• NIH Biostatistical Methods and Research Design (BMRD) study section, July 2009 to June
+2013.
+• American Mathematical Society, Committee on Programs that Make a Difference, 2009
+• Invited guest reviewer on NIH’s BMRD study section, October 2008
+• Program Chair for Chemometrics subcommittee of ASA’s Section on Physical and Engineering
+Sciences. 2004-2008.
+• Organized SPES-Chemometrics Topic Contributed paper sessions for the 2007 Joint Statistical
+Meetings that were held in Salt Lake City, Utah (July-August 2007)
+• Organized the SPES-Chemometrics Invited paper session for the 2006 Joint Statistical Meetings
+that were held in Seattle, Washington (August 2006)
+• Organized an IMS Invited paper session on metabolomics for the 2007 ENAR Conference that
+was held in Atlanta, Georgia (March 2007)
+• Human Resources Advisory Committee of the Mathematical Sciences Research Institute. 20042007
+• Presentation on forming professional collaborations. Inﬁnite Possibilities Conference. Raleigh,
+North Carolina. November 2007
+• Participated in the Fred A. Olds University Connections Magnet Program. This public school
+gained its magnet status from an ofﬁcial inter-institutional agreement with North Carolina State
+University. 2006-2007
+• Presenter at the 2007 Career Fair for Ligon Middle School
+• Organized an Invited paper session, titled ”Statistical issues in high throughput chemistry,” for
+the 2005 Joint Statistical Meetings to be held in Minneapolis, Minnesota
+• External reviewer for a doctoral defense at the University of Waterloo
+• Keynote speaker for the Diversity Workshop at the 2005 ENAR Meetings in Austin, Texas.
+March 20, 2005
+• Organized Invited session “Chemometrics” for the Joint Statistical Meetings, 2004, Toronto,
+Canada.
+• Panel speaker at the “Educators Across America” Conference. April 2004.
+• Lecturer for the University Connections Program with Fred A. Olds Elementary School. Spring
+2004.
+• Member of the Local Development Committee of the Statistical and Applied Mathematical Sciences Institute. 2000–2003.
+• Member of the Regional Advisory Board of the Eastern North American Region of the International Biometric Society. 2000–2002.
+• Member of the American Statistical Association’s Panel on Elections, formed to study and provide a statistical report on election practices in the US. 2000–2002.
+October 31, 2009
+
+J.M. Hughes-Oliver
+
+page 13 of 14
+
+• Facilitated an Invited Panel at JSM 2000, titled “Educating Disadvantaged Children: Past Lessons
+and Future Directions.”
+• Publications Ofﬁcer of the American Statistical Association’s Section on Statistics in Epidemiology. 2000–2001.
+• Participated in “Educating the Science and Engineering Workforce in Collaboration with Women’s
+and Gender Studies Programs: A North Carolina State University Initiative.” This involved seminars on incorporating issues of gender and race into course curricula. 2000.
+• Vice Chair of the Committee on Minorities in Statistics of the American Statistical Association.
+1999–2003.
+• Organized the Invited paper session “Biostatistics and Law II” for the 1999 ENAR Spring Meetings, held March 28–31, 1999 in Atlanta.
+• Panel speaker for the 1999 Expanding Your Horizons in Science, Mathematics and Engineering
+conference. March 9, 1999.
+• Secretary of the Section on Statistics and the Environment of the American Statistical Association. 1999.
+• Treasurer of the Section on Statistics and the Environment of the American Statistical Association. 1998.
+• Appointed Member of the Committee on Minorities in Statistics of the American Statistical
+Association. 1998–2003.
+• Chaired the session “Spatio-temporal modelling of environmental data” at the Joint Statistical
+Meetings, Dallas, TX, August 9–13, 1998.
+• Organized and chaired an Invited paper session at the 1997 Joint Statistical Meetings in Anaheim, California. The session was titled “Spatial-temporal modeling of nonstationary processes:
+A look ahead.”
+• Judge at the 6th Annual Mathematics and Computer Science Symposium at Norfolk State University, Virginia. April 1997.
+• Assisted General Electric–Mebane in establishing their Six Sigma quality initiative. 1995–1996.
+• Presentation to the students of the Enloe High School Pre-College Program, October 1995. One
+of these students is now a freshman in the College of Physical and Mathematical Sciences at
+North Carolina State University.
+• Two presentations to the Undesignated majors at North Carolina State University. Spring 1995.
+• Presentation of “The Underrepresentation of Women in Academia: Identifying the Issues” in the
+Graduate School’s Crosstalk Colloquium Series. Fall 1995.
+• Presentations at several recruiting activities held on campus by the College of Physical and
+Mathematical Sciences at North Carolina State University.
+• Panelist for North Carolina State University Graduate School Colloquium entitled “The Role
+and Nature of Doctoral Research and Dissertation at NCSU.” April 12, 1990.
+• Mentor and host support activities for African-American students studying statistics at North
+Carolina State University. Spring 1987 to present.
+• Editorial Service:
+– Editorial Board of Chemometrics and Intelligent Laboratory Systems. 2006–2009
+– Associate Editor of Journal of the American Statistical Association, Applications and Case
+Studies. 2004–2006
+October 31, 2009
+
+J.M. Hughes-Oliver
+
+page 14 of 14
+
+– Reviewer of NSF proposals
+– Reviewer of NIH proposals
+– Referee for American Journal of Human Genetics, American Statistician, Biometrics, Chimical Reviews, Environmetrics, IEEE Transactions on Semiconductor Manufacturing, Journal of the American Statistical Association, Journal of Chemical Information & Computer
+Sciences, Journal of Statistical Planning, Statistics & Probability Letters.
+Honors And Awards
+• Named 2007 Fellow of the American Statistical Association
+• D. D. Mason Faculty Award for 2005-2006. Citation reads ”This award is made in recognition of Professor Hughes-Oliver’s years of excellent service in the department in various areas,
+including outstanding teaching, active participation in enhancing diversity on campus, service
+with perfection and care on departmental, university and professional committees, mentoring
+students and being a role model to young statisticians.”
+• The American Statistical Association’s 2006 Statistics in Chemistry Award for the paper ”Remlinger, K.S., Hughes-Oliver, J.M., Young, S.S., and Lam, R. 2005. Statistical Design of Pools
+Using Optimal Coverage and Minimal Collision. Technometrics, 48(1), 133-144.” Quoting our
+award notiﬁcation, ”The Committee felt that this paper was an easy-to-understand, yet effective,
+approach for [high-throughput screening]. They believe that this method will likely be a popular
+addition to the set of tools for chemometricians to use.”
+• North Carolina State University College of Physical and Mathematical Sciences recipient of the
+Board of Governors’ Award for Excellence in Teaching. 2003–2004.
+• Named Alumni Distinguished Undergraduate Professor for the years 2001–2003, and will retain
+the title for the remainder of my time at NC State University.
+• Invited to participate in the international workshop “Experimental Design: Theory and Applications” at the Oberwolfach Institute in Germany. November 1998.
+• Selected to participate in the Young Researchers Poster Session at the Correlated Data Conference held at Iowa State University in October, 1997.
+• 1996 elected to the NCSU Academy of Outstanding Teachers.
+• 1995–1996 Outstanding Teacher Award.
+• Recipient of 3-year National Science Foundation Fellowship for graduate studies (1986–1989).
+• Recipient of a Cox Fellowship for graduate study in Statistics (1986–1989).
+• Recipient of a Graduate School Fellowship (1990).
+• Recipient of a Student Travel Award and a Student Prize for paper presented at the 1990 E.N.A.R.
+Spring Meetings.
+• Phi Beta Kappa (since 1986).
+• Department of Statistics Master’s Student of the Year (1987).
+• African-American Graduate Student of the Year at NCSU (1987–1988).
+• African-American Graduate Student of the Year in the College of Physical and Mathematical
+Sciences (1987-1988, 1989-1990, 1990-1991).
+• Statistics Student of the Year (1984-1985).
+• Alpha Lambda Delta (Freshman Honorary Society).
+
+October 31, 2009
+
+

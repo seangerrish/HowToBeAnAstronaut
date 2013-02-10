@@ -1,0 +1,154 @@
+RESUME
+
+HARRY LUCK - DESIGNER
+GOAL
+To be part of a team that wants to work towards bettering themselves every day, always trying to innovate and expand on their
+current expertise. To work on amazing and fresh game ideas that always put fun first, and, to be able to share my experience with
+those around me and help in guiding development wherever possible to improve pipelines and development tools to ensure that we
+can still have fun making the best games possible.
+
+EXPERIENCE
+ZIPPER INTERACTIVE
+October 2007 to Present
+Senior Designer: ‘a secret project’
+ Blocking out level designs quickly for prototyping (specifically with regards to our multiplayer element)
+ Designing, building and scripting single player based missions in proprietary tools
+ Creating comprehensive documentation for level elements
+ Created documentation and presentations to help drive a change in mentality towards designer tools and a clearer
+more flexible toolset
+ Helped cement our working pipeline and co-ordination between design and art
+Senior Designer: M.A.G (a move to assist the project)
+ Created all Faction Exercise map layouts and took through art phases (64 player)
+ Redesigned and rebuilt all Sabotage mission maps (64 player)
+ Designed one 64 player section for Absheron Refinery (256 player)
+
+LUXOFLUX
+November 2007 to July 2008
+Designer and Gameplay Mechanic: Kung-fu Panda (360):
+ Systems design for level specific gameplay elements
+ Innovating and experimenting with existing toolset to create unique and new events
+ Creating test levels for prototype testing
+ Building full levels using 3D Studio MAX
+ Creating level documentation (incl. 3D assets, sounds, cinematics, v.o, ambience etc)
+
+U B I SO F T ( M O N T R E A L )
+October 2004 to August 2006
+Game Designer: Naruto:
+ Large contributor as part of the original concept team for what Naruto should be
+ Designs and documentation for Technique, Fighting, Targeting and Camera systems
+ Creating test levels for prototype testing
+ Prototype development tracking
+
+©2010, Harry Luck, a spot of luck, www.harryluck.com
+
+RESUME
+Senior Level Designer and Technical Advisor: King Kong:
+ Designing and building levels using in-house editor (JADE)
+ Creating the first set of prototype levels and character adjustments for King Kong
+ Level scripting, incl. AI, event triggers and cinematics
+ Creating tutorial documentation for other designers (specifically for camera systems and build pipeline)
+
+CONFOUNDING FACTOR
+April 2001 to March 2004
+Technical Artist and Designer: Galleon:
+ Designing and building game worlds and objects using in-house editor
+ Texture and material generation, as well as object and world mapping
+ Full scripting (written conditional style language)
+ Designed, built and scripted all tutorials
+ Music implementation
+
+FREELANCE
+June 1998 to March 2001
+Freelance Graphic Designer:
+ Designing and creating artwork for various clients in various media forms
+ Using Quark Express / Adobe InDesign, Illustrator and Photoshop to do leaflets, letterheads and posters
+
+BANKRUPT STUDIOS
+November 1997 to May 1998
+World Designer: Hunter II:
+ Designing and building landscapes, level objects and flora using in-house editor
+ Texture generation, landscape painting and mapping
+ Particle systems
+
+SC I
+October 1995 to July 1997
+Level Designer and Artist: XS, Fatal Domain:
+ Designing and building levels and objects using 3D Studio release 4
+ Assisted in creation of AI behaviours
+ Play balancing
+QA Technician: Kingdom of Magic, Gender Wars:
+ Bug testing and tracking
+ Level assessment
+
+©2010, Harry Luck, a spot of luck, www.harryluck.com
+
+RESUME
+MYTHOS GAMES
+December 1994 to September 1995
+World Builder: XCOM: Apocalypse:
+ Responsible for the original design of the city map
+
+SKILLS
+
+
+
+
+
+
+
+
+
+3D Studio MAX 1 to 2010
+Photoshop 4 to CS4
+Unreal Editor 2.5/3.0
+G.E.C.K (Oblivion/Fallout3 editor and world builder)
+st
+rd
+Ability to learn 1 and 3 party development tools very fast and efficiently
+Ability to write comprehensive documentation for all areas of development including tutorials for game systems as
+well as tool systems
+Ability to work within a team cohesively and develop an idea from concept to prototype to production
+Playing games; this is a large part of my life and my job
+
+GAME REFERENCE
+M.A.G:
+
+http://www.1up.com/do/gameOverview?cId=3168557
+Kung-fu Panda:
+
+http://www.gamerankings.com/xbox360/945168-kung-fu-panda/index.html
+Naruto:
+
+http://www.gamerankings.com/xbox360/932520-naruto-rise-of-a-ninja/index.html
+King Kong:
+
+http://www.gamerankings.com/htmlpages2/920342.asp?q=king%20kong
+Galleon:
+
+http://www.gamerankings.com/htmlpages2/374075.asp?q=galleon
+http://www.offworld.com/2009/08/one-more-go-how-galleon-may-ta.html
+XS:
+
+http://www.gamerankings.com/htmlpages2/199377.asp?q=xs
+X-COM:
+
+http://www.gamerankings.com/htmlpages2/36014.asp?q=xcom
+
+©2010, Harry Luck, a spot of luck, www.harryluck.com
+
+RESUME
+
+CONTACT DETAILS
+Harry Luck
+rd
+15845 NE 83 Way
+Redmond
+WA
+98052
+425-802-8291
+If references are required, don’t hesitate to contact me at: my mail
+And please take a wander around my website: a spot of luck
+
+©2010, Harry Luck, a spot of luck, www.harryluck.com
+
+

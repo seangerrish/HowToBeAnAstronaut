@@ -1,0 +1,68 @@
+Henry Chang 
+ 
+101 First Street #150 
+Los Altos, CA 94022  
+
+ 
+ 
+
+ (408) 230‐0129 
+henry@designers‐guide.com
+
+EXPERIENCE 
+ 
+Designer’s Guide Consulting, Inc., Los Altos, CA, Vice President, 2005‐present.  Provide high‐value 
+consulting services to IC design and EDA companies.  Help analog/mixed‐signal/RF design clients move to 
+top‐down design and top‐down verification methodologies.   Improve clients’ verification capabilities by 
+providing simulation, modeling, and analysis expertise. 
+ 
+Cadence Design Systems, Inc., San Jose, CA, Architect & Director, 1995‐2005. Held leadership roles in R&D, 
+methodology services, product marketing, corporate strategy, and advanced R&D (Office of the CTO).   
+Technical activities revolved around SoC, ASIC, and analog/mixed‐signal design methodologies, flows, and 
+tools.  Business activities revolved around customer engagements (pre‐sales and requirements gathering), 
+writing product requirement specifications, market analysis, business unit and company wide strategy 
+development, writing business plans, and general management. 
+VSIA Mixed‐Signal Development Working Group, Chair, 1996‐2002; co‐chair 2003. Led working group to 
+create the initial and second version of the “Analog/Mixed‐Signal VSIA Extension” to enable the transfer of 
+analog and mixed‐signal IP.   
+University of California, Berkeley, Postdoctoral Researcher and Ph.D. Student, 1989‐1995. Thesis Title: Top‐
+Down, Constraint‐Driven Design Methodology for Analog Integrated Circuits 
+Research Advisors: Professors Alberto Sangiovanni‐Vincentelli and Professor Paul R. Gray 
+Led projects to design, synthesize, fabricate, and test four ICs applying advanced circuit design and 
+electronic design automation techniques.  The ICs included a video driver IC, a ΣΔ analog‐to‐digital 
+converter, and two digital to analog converter ICs. 
+Also worked at: Micro Linear Milpitas, CA, 1991; Brown University, LEMS Laboratory, Providence, RI, 1988; 
+GE Lighting, Cleveland, OH, 1986‐1987 (summers); Dalton, Dalton, Newport (URS Dalton), Cleveland, OH, 
+1984‐1985 
+
+EDUCATION 
+• Ph.D. & M.Sc. in Electrical Engineering and Computer Science, UC Berkeley, 1994. 
+• Sc.B. in Electrical Engineering, Brown University, 1989. 
+
+PATENTS, PUBLICATIONS, INDUSTRY PARTICIPATION, AWARDS 
+•
+•
+•
+•
+
+Awarded 10 U.S. patents 
+Authored 3 books, 14 technical papers, 5 articles in trade publications 
+Gave 1 keynote, participated on 7 panels, gave over 20 invited talks/tutorials 
+Served 22 terms on conference program committees from 1997‐2005; for the IEEE Custom Integrated 
+Circuits Conference, served as technical program in 2004 and the conference chair in 2005. 
+• Most notable awards‐ Intel Fellowship, National Science Foundation, Westinghouse 
+
+BASIC SKILLS 
+•
+•
+•
+•
+
+Electronic Design Automation (EDA) tools and algorithms for analog design, layout and synthesis 
+Analog and digital Custom IC design and layout 
+Software architecture and programming‐ Unix/Windows, c/c++, tcl plus others 
+Business development‐ market research and analysis, strategic planning, authoring business plans 
+
+References and complete C.V. available on request 
+
+
