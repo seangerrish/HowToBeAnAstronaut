@@ -1,3 +1,7 @@
+# Key:
+# These indices generally reflect BLS numbers.
+# the three thousands digits reflect special levels, e.g. trainee (10), lead (1), manager (2), trainer (3)
+# 
 radiologic technologist,105
 radiologic technician,105
 # textile, apparel, and furnishings occupation,233
@@ -782,6 +786,7 @@ car mechanic,180
 television editor,091
 camera operator,091
 video editor,091
+mathematical statistician,045
 statistician,045
 musicians, singers, and related worker,095
 singer,095
@@ -839,10 +844,11 @@ chief financial officer,1051
 research scientist,1100
 research associate,1100
 senior research associate,1101
+research intern,1104
+visiting assistant professor,1102
 assistant professor,1102
 associate professor,1103
-professor,1103
-research intern,1104
+professor,1105
 consultant,1200
 consultation,1200
 pr consultant,1201
@@ -911,13 +917,17 @@ pc support services supervisor,2502
 pc support manager,2502
 pc support services manager,2502
 quality assurance engineer,2501
-engineering aide,2502
-engineering assistant,2502
-assistant engineer,2502
-apprentice engineer,2502
-engineer apprentice,2502
-engineering apprentice,2502
-engineer trainee,2502
+engineering aide,10502
+engineering assistant,10502
+assistant engineer,10502
+apprentice engineer,10502
+engineer apprentice,10502
+engineering apprentice,10502
+engineer trainee,10502
+engineer trainee,10502
+statistical trainee,10045
+statistical associate,10045
+statistician trainee,10045
 author,2600
 writer,2601
 editor,2602

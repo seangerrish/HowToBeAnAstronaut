@@ -1,0 +1,10 @@
+10
+1985,1986,10045,statistical trainee,statistican trainee
+1988,1988,10045,statistical associate,statician trainee
+1989,1990,45,mathematical statistician,mathematical statistician
+1991,1992,1102,assistant professor,assistant visiting professor of statistics
+1992,1999,1102,assistant professor,assistant professor of statistics
+1999-2006,1103,associate professor,associate professor of statistics
+2006,2010,7,professor,professor of statistics
+
+----- download/resumes/cv.txt

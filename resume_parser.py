@@ -52,8 +52,9 @@ ROLE_PATTERNS = [
     ]
 
 class Resume():
-    def __init__(self, text, role_descriptions):
+    def __init__(self, text, role_descriptions, id):
         format = "chronological"
+        self.id = id
         self._roles = {}
         self.ParseChronologicalResume(text, role_descriptions)
 
@@ -237,6 +238,19 @@ class Resume():
                 continue
             print "%s-%s: %s" % (y1, y2, ",".join([canonical for text, (id_, canonical) in roles] ))
 
+        self.role_years = role_years
+
+    def __str__(self):
+        resume_data = ""
+        for (y1, y2), role, i in zip(self.role_years, self._roles, range(len(self.role_years))):
+            if len(role) == 0:
+                continue
+            text, (id_, canonical) = role[0]
+            resume_data += "%s,%s,%s,%s,%s" % (y1, y2, id_, canonical, text)
+            if i < len(self.role_years) - 1:
+                resume_data += "\n"
+        return resume_data
+
     def ParseChronologicalResume(self, text, role_descriptions):
         #print text
         self.ParseEducation(text)
@@ -272,6 +286,15 @@ def ReadRoleDescriptions(role_descriptions):
         role_descriptions[role] = (index, canonical)
 
     f.close()
+
+
+def SaveResumeData(resumes, output_filename):
+    f = open(output_filename, "w")
+    for resume in resumes:
+        print >>f, str(resume)
+        print >>f, "----- " + resume.id
+    f.close()
+    
     
 if __name__ == '__main__':
     resumes_file = open("resumes.txt", "r")
@@ -284,12 +307,16 @@ if __name__ == '__main__':
     # Other things to parse:
     # bar?
     ReadRoleDescriptions(role_descriptions)
+
+    resumes = {}
     
     for resume_filename in resumes_file:
         resume_filename = resume_filename.strip()
         resume_file = open(resume_filename, "r")
         print resume_filename
-        resume = Resume(resume_file.read(), role_descriptions)
+        resume = Resume(resume_file.read(), role_descriptions, resume_filename)
         resume_file.close()
+        resumes[resume] = True
     resumes_file.close()
 
+    SaveResumeData(resumes, "models/resume_stats.csv")
