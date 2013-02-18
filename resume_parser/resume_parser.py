@@ -37,7 +37,7 @@ class EducationParser:
             if len(other_names):
                 other_names = other_names.split(";")
                 for name in other_names:
-                    self.names_to_majors[other_names] = index_str
+                    self.names_to_majors[name] = index_str
 
         f.close()
 
@@ -51,9 +51,9 @@ class EducationParser:
 
 
         f.close()
-
-        self.degrees_re = re.compile("(%s)",
-                                     '|'.join(self.degrees_to_canonical.keys()))
+        re_string = ("(%s)" %
+                     '|'.join(self.degrees_to_canonical.keys()))
+        self.degrees_re = re.compile(re_string)
 
     def ParseNext(self, text, start, end):
         """Parse the next snippet of text.
@@ -71,12 +71,12 @@ class EducationParser:
         degree_m2 = self.degrees_re.search(text[next_start:end], re.IGNORECASE)
 
         # Next, look for the major before the second (if any) degree type.
-        major_m1 = self.degrees_re.search(text[start:(start + )], re.IGNORECASE)
+        major_m1 = self.degrees_re.search(text[start:(start + next_start)], re.IGNORECASE)
         
         # If the degree type and major were separated by little-enough space, add it to the list.
         
     def __init__(self):
-        self.majors = {}
+        self.names_to_majors = {}
         self.degrees_to_canonical = {}
         self.ReadMajors()
         self.ReadDegrees()
@@ -92,23 +92,51 @@ def TestEducationParser():
             result = parser.ParseNext(text, next_start, len(text))
             parsed_degrees.append((degree, major, datetime))
 
-        for ((degree, major, datetime),
-             (parsed_degree, parsed_major, parseddatetime)) in zip(
-            degrees, parsed_degrees):
-            if degree != parsed_degree:
-                print "Expected %s. got %s" % (degree, parsed_degree)
-            if major != parsed_major:
-                print "Expected %s. got %s" % (major, parsed_major)
-            if year != parsed_datetime.year:
-                print "Expected %s. got %s" % (datetime, parsed_datetime)
-            
+        print degrees
+        print text
+        
+        assert (len(degrees) == len(parsed_degrees)), (
+            "Error. degrees != parsed_degrees:" + str(degrees) + "\n" + str(parsed_degrees))
+        for i, ((degree, major, datetime),
+             (parsed_degree, parsed_major, parseddatetime)) in enumerate(zip(
+            degrees, parsed_degrees)):
+            assert degree == parsed_degree, (
+             "Expected %s. got %s" % (degree, parsed_degree))
+            assert major == parsed_major, (
+                "Expected %s. got %s" % (major, parsed_major))
+            assert year == parsed_datetime.year, (
+                "Expected %s. got %s" % (datetime, parsed_datetime))
 
+        print ".. checked."
+
+    CheckParse(
         """
         2009: bs in mathematics
     2012: masters in economics
-    2015: phd in economic theory"""
-    ):
-        
+    2015: phd in economic theory""",
+        [ (2009, "bs", "mathematics"),
+          (2012, "masters", "economics"),
+          (2015, "phd", "economics") ])
+
+    CheckParse("""
+    1998 -- bachelors, english
+    """, [ (1998, "bs", "english") ])
+    
+    CheckParse("""
+
+    Spanish, University of Alberta (1975)
+
+    PhD Linguistics, Stanford University (1985)
+    """,
+               [ (1975, "bs", "spanish"),
+                 (1985, "phd", "linguistics") ])
+
+    CheckParse("""1995: b.s. in English
+
+    2000: New York Law School""",
+               [ (1995, "bs", "english"),
+                 (2000, "jd", "law") ])
+               
 
 
 ROLE_PATTERNS = [

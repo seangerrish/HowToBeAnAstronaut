@@ -8,3 +8,7 @@ ms,masters of science,master of science
 mse,masters of science engineering,masters of science and engineering,master of science and engineering,master of science engineering,master of engineering,masters of engineering
 mfa,masters of fine arts,master of fine arts,master fine arts,master of the fine arts
 as,associates
+dds,d.d.s,d.ds,dental school
+md,medical degree,medical school
+jd,j.d.,juris doctorate,doctorite of jurisprudence,law school
+mba,masters of business administration,master of business administration,m.b.a

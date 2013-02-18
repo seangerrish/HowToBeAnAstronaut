@@ -13,7 +13,7 @@ anthropology,12,7/9,
 comparative literature,13,4/9,comp lit
 women's studies,14,2/9,womens studies
 special education,15,2/9,special ed
-economics,16,10/9,
+economics,16,10/9,economic theory;economic analysis
 music education,17,4/9,
 business administration,18,2/9,
 architectural studies,19,2/9,
@@ -116,3 +116,5 @@ islamic studies,115,2/9,
 american studies,116,3/9,
 social work,117,4/9,
 religious studies,118,3/9,
+medical school,119,,med school
+pre-med,120,,premed;pre-med school
