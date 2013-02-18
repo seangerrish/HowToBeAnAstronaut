@@ -5,6 +5,9 @@
 import re
 import sys
 
+MAJORS_FILENAME = "education/majors.txt"
+DEGREES_FILENAME = "education/degrees.txt"
+
 class Prerequisite:
     def __init__(self, name, description, level, type):
         self._description = description 
@@ -23,6 +26,36 @@ class Job(Prerequisite):
     def __init__(self, industry, title):
         Prerequisite.__init__(self, title, description, "", "job")
         self._industry = industry
+
+class EducationParser:
+    def ReadMajors(self):
+        f = open(MAJORS_FILENAME, "r")
+        for row in f:
+            row = row.strip()
+            major, index_str, _, other_names = row.split(",")
+            self.names_to_majors[major] = index_str
+            if len(other_names):
+                other_names = other_names.split(";")
+                for name in other_names:
+                    self.names_to_majors[other_names] = index_str
+
+        f.close()
+
+        f = open(DEGREES_FILENAME, "r")
+        for row in f:
+            row = row.strip()
+            parts = row.split(",")
+            for part in parts:
+                self.degrees_to_canonical[part] = part[0]
+
+        f.close()
+        
+    def __init__(self):
+        self.majors = {}
+        self.degrees_to_canonical = {}
+        self.ReadMajors()
+            
+        
 
 ROLE_PATTERNS = [
     ("years",
@@ -59,7 +92,10 @@ class Resume():
         self.ParseChronologicalResume(text, role_descriptions)
 
     def ParseEducation(self, text):
-        pass
+        start = 0
+        end = len(text)
+        m = 0
+        education_offsets = []
 
     def ParseExperience(self, text, role_descriptions):
         start = 0
