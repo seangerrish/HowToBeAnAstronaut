@@ -41,21 +41,75 @@ class EducationParser:
 
         f.close()
 
+    def ReadDegrees(self):
         f = open(DEGREES_FILENAME, "r")
         for row in f:
             row = row.strip()
             parts = row.split(",")
             for part in parts:
-                self.degrees_to_canonical[part] = part[0]
+                self.degrees_to_canonical[part] = parts[0]
+
 
         f.close()
+
+        self.degrees_re = re.compile("(%s)",
+                                     '|'.join(self.degrees_to_canonical.keys()))
+
+    def ParseNext(self, text, start, end):
+        """Parse the next snippet of text.
+
+        Returns a nested tuple of ((degree, major, datetime), new_start)
+        if one exists.
+        """
+        # First, look for the first one or two degree types.
+        degree_m1 = self.degrees_re.search(text[start:end], re.IGNORECASE)
+        if not degree_m1:
+            return None
+
+        next_start = start + degree_m1.end()
+
+        degree_m2 = self.degrees_re.search(text[next_start:end], re.IGNORECASE)
+
+        # Next, look for the major before the second (if any) degree type.
+        major_m1 = self.degrees_re.search(text[start:(start + )], re.IGNORECASE)
+        
+        # If the degree type and major were separated by little-enough space, add it to the list.
         
     def __init__(self):
         self.majors = {}
         self.degrees_to_canonical = {}
         self.ReadMajors()
-            
+        self.ReadDegrees()
         
+
+def TestEducationParser():
+    parser = EducationParser()
+    def CheckParse(text, degrees):
+        result = parser.ParseNext(text, 0, len(text))
+        parsed_degrees = []
+        while result:
+            ((degree, major, datetime), next_start) = result
+            result = parser.ParseNext(text, next_start, len(text))
+            parsed_degrees.append((degree, major, datetime))
+
+        for ((degree, major, datetime),
+             (parsed_degree, parsed_major, parseddatetime)) in zip(
+            degrees, parsed_degrees):
+            if degree != parsed_degree:
+                print "Expected %s. got %s" % (degree, parsed_degree)
+            if major != parsed_major:
+                print "Expected %s. got %s" % (major, parsed_major)
+            if year != parsed_datetime.year:
+                print "Expected %s. got %s" % (datetime, parsed_datetime)
+            
+
+        """
+        2009: bs in mathematics
+    2012: masters in economics
+    2015: phd in economic theory"""
+    ):
+        
+
 
 ROLE_PATTERNS = [
     ("years",
@@ -330,9 +384,9 @@ def SaveResumeData(resumes, output_filename):
         print >>f, str(resume)
         print >>f, "----- " + resume.id
     f.close()
-    
-    
-if __name__ == '__main__':
+
+
+def ParseAllResumes():
     resumes_file = open("resumes.txt", "r")
 
     role_descriptions = {}
@@ -356,3 +410,10 @@ if __name__ == '__main__':
     resumes_file.close()
 
     SaveResumeData(resumes, "models/resume_stats.csv")
+
+if __name__ == '__main__':
+    if sys.argv[1] == 'test':
+        TestEducationParser()
+    else:
+        ParseAllResumes()
+
