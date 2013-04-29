@@ -1,6 +1,12 @@
 #!/usr/bin/python
 
 # Parse resumes.
+#
+# The format for a parsed resume is:
+# start_date, end_date, event_type, event description (id or whaever)
+#
+
+
 
 import re
 import sys
@@ -26,6 +32,68 @@ class Job(Prerequisite):
     def __init__(self, industry, title):
         Prerequisite.__init__(self, title, description, "", "job")
         self._industry = industry
+
+def MatchDate(failed_date_expressions, text, start, end):
+    """
+    Given a piece of text and start and end indices, find a date.
+    """
+    best_score = -1
+    best_match_end = 1e10
+    best_year_begin = None
+    best_year_end = None
+    for name, pattern, groups, score in ROLE_PATTERNS:
+        if name in failed_date_expressions:
+            continue
+        m = pattern.search(text[start:end])
+
+        if m and (score >= best_score and (start + m.end() < best_match_end or start + m.end() + 20 < best_match_end)):
+            best_score = score
+            if name in ("years", "years2", "years3", "years4", "yearsmonths"):
+                best_year_begin = m.groups()[groups[0]]
+                best_year_end = m.groups()[groups[1]]
+                best_match_end = m.end() + start
+            elif name in ("year", "yearmonth"):
+                best_year_begin = m.groups()[groups[0]]
+                best_year_end = ""
+                best_match_end = m.end() + start
+            else:
+                best_year_begin = m.groups()[groups[0]]
+                best_year_end = ""
+                best_match_end = m.end() + start
+
+        elif m:
+            pass
+        else:
+            pass
+        if not m:
+            failed_date_expressions[name] = True
+
+    return (best_year_begin, best_year_end, best_match_end, m)
+
+def SplitByDate(start, end, text, pending_role,
+                role_description_offsets,
+                years,
+                failed_date_expressions):
+    best_year_begin, best_year_end, best_match_end, match = MatchDate(
+        failed_date_expressions,
+        text,
+        start,
+        end)
+    
+    if best_year_begin is not None:
+        years.append((best_year_begin, best_year_end))
+        if pending_role is not None:
+            role_end = match.start() + start
+            role_description_offsets.append((pending_role, role_end))
+
+        pending_role = best_match_end
+
+    new_start = start
+    if match:
+        new_start = best_match_end
+
+    return (match, new_start, pending_role)
+
 
 class EducationParser:
     def ReadMajors(self):
@@ -66,14 +134,41 @@ class EducationParser:
         if not degree_m1:
             return None
 
-        next_start = start + degree_m1.end()
 
         degree_m2 = self.degrees_re.search(text[next_start:end], re.IGNORECASE)
 
         # Next, look for the major before the second (if any) degree type.
-        major_m1 = self.degrees_re.search(text[start:(start + next_start)], re.IGNORECASE)
-        
-        # If the degree type and major were separated by little-enough space, add it to the list.
+        majors = []
+        m = self.degrees_re.search(text[start:(start + next_start)], re.IGNORECASE)
+        while m:
+            print "major: ", m.group(1)
+            canonical = self.names_to_majors[m.group(1)]
+            majors.append(canonical)
+            next_start = start + m.end()
+            m = self.degrees_re.search(text[(start + next_start):end], re.IGNORECASE)
+
+        degrees = []
+        m = self.degrees_re.search(text[start:end], re.IGNORECASE)
+        while m:
+            print "degree: ", m.group(1)
+            canonical = self.degrees_to_canonical[m.group(1)]
+            degrees.append(canonical)
+            next_start = start + m.end()
+            m = self.degrees_re.search(text[(start + next_start):end], re.IGNORECASE)
+
+        dates = []
+        m = self.degrees_re.search(text[start:end], re.IGNORECASE)
+        while m:
+            print "degree: ", m.group(1)
+            canonical = self.degrees_to_canonical[m.group(1)]
+            degrees.append(canonical)
+            next_start = start + m.end()
+            m = self.degrees_re.search(text[(start + next_start):end], re.IGNORECASE)
+            
+        # If the degree type and major were separated by little-enough
+        #space, add it to the list.
+        if np.abs(degree_m1.end() - major_m1.end()) < 25:
+            pass
         
     def __init__(self):
         self.names_to_majors = {}
@@ -137,33 +232,37 @@ def TestEducationParser():
                [ (1995, "bs", "english"),
                  (2000, "jd", "law") ])
                
-
+months = "(january|february|march|april|may|june|july|august|september|october|november|december|jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)"
 
 ROLE_PATTERNS = [
     ("years",
-     re.compile("((19|20)\d\d).*?-.*?((19|20)\d\d)", re.IGNORECASE),
+     re.compile("((19|20)\d\d)[ ]*-[ ]*((19|20)\d\d)", re.IGNORECASE),
      (0, 2),
      100),
     ("years2",
-     re.compile("((19|20)\d\d).+?to.+?((19|20)\d\d)", re.IGNORECASE),
+     re.compile("((19|20)\d\d)[. ]+to[. ]+((19|20)\d\d)", re.IGNORECASE),
      (0, 2),
-     100),
+     80),
     ("years3",
-     re.compile("((19|20)\d\d) to ((19|20)\d\d)", re.IGNORECASE),
+     re.compile("((19|20)\d\d) +to +((19|20)\d\d)", re.IGNORECASE),
      (0, 2),
-     100),
+     130),
     ("years4",
      re.compile("((19|20)\d\d)-((19|20)\d\d)", re.IGNORECASE),
      (0, 2),
-     100),
+     120),
+    ("yearsmonths",
+     re.compile("%s,? +((19|20)\d\d)[ ]+(to|-|--)[ ]+%s,? +((19|20)\d\d)" % (months, months), re.IGNORECASE),
+     (1, 5),
+     75),
+    ("yearmonth",
+     re.compile("%s,? +((19|20)\d\d)" % (months), re.IGNORECASE),
+     (1,),
+     70),
     ("year",
      re.compile("(.*[^\d])?((19|20)\d\d)([^\d].*)?", re.IGNORECASE),
      (1,0),
-     100),
-    ("year only",
-     re.compile("((19|20)\d\d)", re.IGNORECASE),
-     (0,),
-     10),
+     60),
     ]
 
 class Resume():
@@ -180,178 +279,70 @@ class Resume():
         education_offsets = []
 
     def ParseExperience(self, text, role_descriptions):
+        """Parse a set of roles from text.
+
+        """
+        
         start = 0
         end = len(text)
         m = 0
         role_description_offsets = []
         pending_role = None
         years = []
-        def MatchDate(start, end, text, pending_role,
-                      role_description_offsets,
-                      years,
-                      failed_res):
-            best_score = -1
-            best_match_end = 1e10
-            best_year_begin = None
-            best_year_end = None
-            for name, pattern, groups, score in ROLE_PATTERNS:
-                if name in failed_res:
-                    continue
-                #print name
-                #print pattern
-                # Don't bother with resumes longer than 30k chars.
-                #print start
-                #print end
-                m = pattern.search(text[start:end], re.IGNORECASE)
-                if m and (score >= best_score and (start + m.end() < best_match_end or start + m.end() + 20 < best_match_end)):
-                    #print "begin ."
-                    #print name
-                    #print m.start()
-                    #print m.end()
-                    #print text[start + m.start():start + m.end()]
-                    best_score = score
-                    #print m.groups()
-                    #print "replacing %s %s %s" % (str(best_match_end), str(best_year_begin), str(best_year_end))
-                    if name in ("years", "years2", "years3", "years4"):
-                        #print m.groups()
-
-                        best_year_begin = m.groups()[groups[0]]
-                        best_year_end = m.groups()[groups[1]]
-                        #print name
-                        #print m.groups()
-                        #print "years: %s-%s" % (year_begin, year_end)
-                        best_match_end = m.end() + start
-                    elif name == "year only":
-                        #print m.groups()
-                        best_year_begin = m.groups()[groups[0]]
-                        best_year_end = ""
-                        #print name
-                        #print m.groups()
-                        #print "years: %s-%s" % (year_begin, year_end)
-                        best_match_end = m.end() + start
-                    else:
-                        #print name
-                        #print m.groups()
-                        best_year_begin = m.groups()[groups[0]]
-                        best_year_end = ""
-                        #print name
-                        #print m.groups()
-                        #print "years: %s-%s" % (year_begin, year_end)
-                        best_match_end = m.end() + start
-                    #print "match. %s %s %s" % (str(best_year_end), str(best_year_begin), str(best_match_end))
-
-                    #print "replaced %s %s %s" % (str(best_match_end), str(best_year_begin), str(best_year_end))
-                    #print "begin text %d %d" % (start, best_match_end)
-                    #print text[start:best_match_end]
-                    #print "end %d %d" % (start, best_match_end)
-                elif m:
-                    #print "match: %s" % name
-                    #print best_score
-                    pass
-                else:
-                    #print "no match %s" % name
-                    #print "no match"
-                    pass
-                if not m:
-                    failed_res[name] = True
-
-            if best_year_begin is not None:
-                #if pending_role is not None:
-                #    role_end = m.start() + start
-                #    role_description_offsets.append((pending_role, role_end))
-                years.append((best_year_begin, best_year_end))
-                #print "adding role %d-%d:" % (pending_role, role_end)
-                #print text[pending_role:role_end]
-
-                if pending_role is not None:
-                    role_end = m.start() + start
-                    role_description_offsets.append((pending_role, role_end))
-
-                pending_role = best_match_end            
-
-            new_start = start
-            if m:
-                new_start = best_match_end
-
-            return (m, new_start, pending_role)
-
-        pending_role = None
         role_years = []
         role_description_offsets = []
-        failed_res = {}
-        m, start, pending_role = MatchDate(start, end,
-                                           text, pending_role,
-                                           role_description_offsets,
-                                           role_years,
-                                           failed_res)
+        failed_date_expressions = {}
+        m, start, pending_role = SplitByDate(start, end,
+                                             text, pending_role,
+                                             role_description_offsets,
+                                             role_years,
+                                             failed_date_expressions)
         while m:
-            m, start, pending_role = MatchDate(start, end,
-                                               text, pending_role,
-                                               role_description_offsets,
-                                               role_years,
-                                               failed_res)
+            m, start, pending_role = SplitByDate(start, end,
+                                                 text, pending_role,
+                                                 role_description_offsets,
+                                                 role_years,
+                                                 failed_date_expressions)
 
         self._roles = []
         for time_period, ((y_begin, y_end), (t_begin, t_end)) in enumerate(
+
             zip(role_years, role_description_offsets)):
-            #print "%s-%s:" % (y_begin, y_end)
-            #print "------------BEGIN DESCRIPTION"
-            #print text[t_begin:t_end]
             self._roles.append([])
             role_text = text[t_begin:t_end]
             role_text = role_text.lower()
-            #print "%s-%s text:" % (y_begin, y_end)
-            #print role_text
             role_text = role_text.replace("\n", " ")
             role_text = role_text.replace("\t", " ")
             role_text = role_text.replace("\r", " ")
             role_text = role_text.replace(",", " ")
+            print "role text: " + role_text
             terms = role_text.split(" ")
             history = []
             role_description = ""
             for term in terms:
                 term = term.strip()
-                #print history
                 if len(history) > 3:
                     history = history[1:4]
-                #                print len(history)
                 term = term.strip()
                 if len(term) == 0:
                     continue
                 history.append(term)
-                #print history
                 history_length = min(len(history), 4)
 
                 for i in range(history_length):
                     terms_ = " ".join(history[i:history_length])
-                    #print "'%s'" % terms_
 
-                    #print "terms: " + terms_
-                    if "software developer" not in role_descriptions:
-                        print "not found."
-                        #print role_descriptions
-                        sys.exit(1)
                     if terms_ in role_descriptions:
                         self._roles[-1].append((terms_, role_descriptions[terms_]))
+                        print 
                         print "adding role: %s" % str(role_descriptions[terms_])
-                        #print terms_
-                        #print "Found: %s" % str(terms_)
-                        #print "--"
                     else:
-                        #print "%s not found." % terms_
+                        #print "role not found: %s" % terms_
                         pass
 
-            #            print role_descriptions
-            #            print role_description
-            #print self._roles
-            #print "---"
-                #            print text[t_begin:t_end]
-            #print "------------END DESCRIPTION"
-            
         print "---"
         print 
         for (y1, y2), roles in zip(role_years, self._roles):
-            #print roles
             if len(roles) == 0:
                 continue
             print "%s-%s: %s" % (y1, y2, ",".join([canonical for text, (id_, canonical) in roles] ))
@@ -370,7 +361,6 @@ class Resume():
         return resume_data
 
     def ParseChronologicalResume(self, text, role_descriptions):
-        #print text
         self.ParseEducation(text)
         self.ParseExperience(text, role_descriptions)
 
@@ -395,7 +385,6 @@ def ReadRoleDescriptions(role_descriptions):
             try:
                 index = int(parts[-1])
                 role = ",".join(parts[0:len(parts) - 1])
-                #print role
                 if index not in canonical_roles:
                     canonical_roles[index] = role                
             except:
@@ -427,7 +416,7 @@ def ParseAllResumes():
     ReadRoleDescriptions(role_descriptions)
 
     resumes = {}
-    
+
     for resume_filename in resumes_file:
         resume_filename = resume_filename.strip()
         resume_file = open(resume_filename, "r")
@@ -439,9 +428,38 @@ def ParseAllResumes():
 
     SaveResumeData(resumes, "models/resume_stats.csv")
 
+def TestFindDate():
+    text = "2001 to 2004: president of cows"
+    best_year_begin, best_year_end, _, m = MatchDate({}, text, 0, len(text))
+    assert best_year_begin == "2001"
+    assert best_year_end == "2004"
+
+    text = "2001 To 2004: president of cows"
+    best_year_begin, best_year_end, _, m = MatchDate({}, text, 0, len(text))
+    assert best_year_begin == "2001"
+    assert best_year_end == "2004"
+
+    text = "ten spaces2002 to 2005: president of cows"
+    best_year_begin, best_year_end, _, m = MatchDate({}, text, 0, len(text))
+    assert best_year_begin == "2002"
+    assert best_year_end == "2005"
+
+    text = "ten spacesSep 2003 to Nov 2006: president of cows"
+    best_year_begin, best_year_end, _, m = MatchDate({}, text, 0, len(text))
+    assert best_year_begin == "2003"
+    assert best_year_end == "2006"
+
+    text = "ten spacesNovember, 2004 to Sep 2007: president of cows"
+    best_year_begin, best_year_end, _, m = MatchDate({}, text, 0, len(text))
+    assert best_year_begin == "2004"
+    assert best_year_end == "2007"
+
+    print "Test passed."
+
 if __name__ == '__main__':
-    if sys.argv[1] == 'test':
-        TestEducationParser()
+    if len(sys.argv) > 1 and sys.argv[1] == 'test':
+        #TestEducationParser()
+        TestFindDate()
     else:
         ParseAllResumes()
 
