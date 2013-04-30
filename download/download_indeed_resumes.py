@@ -95,8 +95,11 @@ def DownloadExampleConcentrations(roles):
     i = 0
     for role, role_id in roles.items():
         for location in locations:
+          i += 1
+          if i < 11388:
+            continue
+
           try:
-            i += 1
             seen_id = int(math.log(i + 1) / math.log(1.1))
             if seen_id not in seen:
                 print "processing %d." % i
@@ -104,8 +107,9 @@ def DownloadExampleConcentrations(roles):
             seen[seen_id] = True
 
             escaped_role = Escaped(role)
+            escaped_location = Escaped(location)
             query = "http://www.indeed.com/resumes?q=%s&l=%s" % (
-                escaped_role, Escaped(location))
+                escaped_role, escaped_location)
 
             q_f = ""
             try:
@@ -121,10 +125,21 @@ def DownloadExampleConcentrations(roles):
                 print "no match for query: " + query
                 continue
             
+            escaped_role = escaped_role.replace("+", "_")
+            escaped_location = escaped_location.replace("+", "_")
+            escaped_location = escaped_location.replace(",", "_")
+
+            out_directory = os.path.join("download/indeed_search_results", role_id)
+            if not os.path.exists(out_directory):
+                os.makedirs(out_directory)
+            out_filename = os.path.join(out_directory, escaped_location)
+            out_file = open(out_filename, "w")
+            print >>out_file, q_f
+            out_file.close()
+
+            # Save the downloaded resume.
             print "downloading " + resume_url
             resume_text = urllib2.urlopen(resume_url).read()
-            query = query
-
             escaped_role = escaped_role.replace("+", "_")
             out_directory = os.path.join("download/indeed", role_id)
             if not os.path.exists(out_directory):
@@ -139,6 +154,7 @@ def DownloadExampleConcentrations(roles):
           except:
               traceback.print_exc()
               continue
+
     #result = urllib2.geturl(query)
 
 
