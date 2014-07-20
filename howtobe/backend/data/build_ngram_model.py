@@ -17,11 +17,6 @@ SMOOTHED_CONDITIONALS = {}
 
 DEPTHS = [ -20, -15, -10, -5, 0, 5, 10, 15, 20 ]
 
-from resume_parser.career import (NormalizedCareer,
-        CareersFromFile,
-        DEGREE_EVENT,
-        DEGREE_ORDER)
-
 import pickle
 
 TIMES = [ -20, -15, -10, -5, 0 ]
@@ -38,7 +33,6 @@ def NewSummary():
         "classes": None,
         "job": None,
     }
-
 
 def BuildNGrams():
     pass
@@ -68,14 +62,15 @@ def ResumeGenerator(f):
             mode = row
         elif mode == "### JOBS":
             parts = row.split(",")
-            start = datetime.strftime("%Y-%m-%d")
+            start, end, _, id, _, _, _ parts
+            start, end = datetime.strftime("%Y-%m-%d", start)
+            start = datetime.strftime("%Y-%m-%d", end)
             # job = (start, end, 
             # c.jobs.append(job)
         elif mode == "### ID":
             c = Career()
 
         yield c
-"""
 
 def Smooth(raw, smoothed):
     for key, value in raw:
